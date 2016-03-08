@@ -8,6 +8,7 @@ os.chdir('/Users/burrelvannjr/Desktop/')
 ids=[]
 names=[]
 urls=[]
+details=[]
 
 site = "https://weedmaps.com/dispensaries/in/united-states"
 text = requests.get(site).text
@@ -18,8 +19,16 @@ ids.append(id)
 names = re.findall('","name":"(.*?)","avatar_url"',soup)
 names.append(names)
 names.pop(300)
-url = re.findall(',"url":"http(.*?)","name":"',soup)
-urls.append(url)
+pages = re.findall(',"url":"http(.*?)","name":"',soup)
+for i in pages:
+	i = "http" + i
+	detail = i + "#/details"
+	urls.append(i)
+	details.append(detail)
+
+
+
+
 
 
 
