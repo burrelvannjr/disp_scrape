@@ -1,344 +1,346 @@
-id,names,addresses,cities,states,zips,phones,dates,licences,websites
-218990048,Organic Roots,7243 University Ave,La Mesa,CA,91942,6194812281,"August 14th, 2012",medical,http://weedmaps.com/dispensaries/natures-leaf-collective-2-2#/details
-967656481,Central Remedies - South LA,5712 S. Central ave,Los Angeles,CA,90011,3232319700,"March 12th, 2013",medical,http://weedmaps.com/dispensaries/central-ramdies#/details
-967656481,Central Remedies - South LA,5712 S. Central ave,Los Angeles,CA,90011,3232319700,"March 12th, 2013",medical,http://weedmaps.com/dispensaries/central-ramdies#/details
-220788451,Kush Kingdom,24643 Alessandro Blvd,Moreno Valley,CA,92553,9514130266,"May 10th, 2015",medical,http://weedmaps.com/dispensaries/kush-kingdom-2-6#/details
-248707897,BONAFIDE COLLECTIVE - Pre ICO,7570 San Fernando Rd.,Burbank,CA,91352,8183949353,"January 12th, 2013",medical,http://weedmaps.com/dispensaries/bonafide-group-collective#/details
-912550677,420 Tailor Shop,1241 Third Ave,Chula Vista,Ca,91911,6193614656,"September 9th, 2015",medical,http://weedmaps.com/dispensaries/420-tailor-shop#/details
-521875939,VIP MEDS,9612 Dale ave,Spring Valley,California,91977,6194199698,"June 2nd, 2014",medical,http://weedmaps.com/dispensaries/spring-valley-storefront#/details
-820011554,LA MART ,6001 S Broadway St,Los Angles,CA,90003,3239206748,"May 4th, 2015",medical,http://weedmaps.com/dispensaries/la-mart#/details
-820011554,LA MART ,6001 S Broadway St,Los Angles,CA,90003,3239206748,"May 4th, 2015",medical,http://weedmaps.com/dispensaries/la-mart#/details
-161749894,GreenLeaf Collective,1560 South Long Beach Blvd,Compton,CA,90221,3107103099,"November 4th, 2015",medical,http://weedmaps.com/dispensaries/greenleaf-collective-2#/details
-779432891,The House of OG's,4406 40th Street,San Diego,CA,92116,6194319255,"October 15th, 2015",medical,http://weedmaps.com/dispensaries/the-house-of-og-s#/details
-976089038,OSH,14064 Foothill Blvd,Sylmar,CA,91342,8184543976,"April 10th, 2013",medical,http://weedmaps.com/dispensaries/one-stop-healers#/details
-734950782,TOKE CENTRAL ,9221 South Central Ave,Los Angeles,CA,90002,3233135380,"November 11th, 2014",medical,http://weedmaps.com/dispensaries/hope-central#/details
-734950782,TOKE CENTRAL ,9221 South Central Ave,Los Angeles,CA,90002,3233135380,"November 11th, 2014",medical,http://weedmaps.com/dispensaries/hope-central#/details
-787368859,New Age Compassion Care Center,1719 Pacific Coast Highway,Lomita,CA,90717,3102570011,"December 11th, 2013",medical,http://weedmaps.com/dispensaries/new-age-compassion-care#/details
-519120862,Tender Green's Patient Group,655 W 7th St,San Pedro,CA,90731,5622069347,"March 11th, 2015",medical,http://weedmaps.com/dispensaries/south-bays-finest#/details
-861037255,CCC Pre-ICO,13432 Sherman Way,North Hollywood,California,91605,8188211171,"April 8th, 2015",medical,http://weedmaps.com/dispensaries/ccc-3#/details
-972254155,420 Manchester,420 E Manchester,Inglewood,CA,90301,3105903192,"May 24th, 2015",medical,http://weedmaps.com/dispensaries/420-manchester#/details
-764218664,East LA Caregivers ,5910 Whittier Blvd,Los Angeles,CA,90022,3234797833,"July 2nd, 2015",medical,http://weedmaps.com/dispensaries/east-la-caregivers-2#/details
-767292015,Cured Cooperative,7826 N Market St. Suite E,Spokane,Washington,99217,5098082800,"May 3rd, 2013",medical,http://weedmaps.com/dispensaries/cured#/details
-767292015,Cured Cooperative,7826 N Market St. Suite E,Spokane,Washington,99217,5098082800,"May 3rd, 2013",medical,http://weedmaps.com/dispensaries/cured#/details
-375218882,TIN Collective,4502 S Union Ave,Tacoma,Washington,98409,2534261289,"August 28th, 2013",medical,http://weedmaps.com/dispensaries/tin-collective#/details
-166153444,Michigan Wellness Group ,16900 W.Warren,Detroit,MI,48228,313436.1912,"April 7th, 2011",medical,http://weedmaps.com/dispensaries/michigan-wellness-group#/details
-166153444,Michigan Wellness Group ,16900 W.Warren,Detroit,MI,48228,313436.1912,"April 7th, 2011",medical,http://weedmaps.com/dispensaries/michigan-wellness-group#/details
-216353359,Green Orchard,333A E. First St.,Port Angeles,WA,98362,3607971969,"November 25th, 2013",medical,http://weedmaps.com/dispensaries/green-orchard#/details
-484165572,Mr. Greens,910 West PACIFIC COAST HWY,Wilmington,CA,90744,8184060255,"May 3rd, 2013",medical,http://weedmaps.com/dispensaries/greenmart-the-superstore#/details
-484165572,Mr. Greens,910 West PACIFIC COAST HWY,Wilmington,CA,90744,8184060255,"May 3rd, 2013",medical,http://weedmaps.com/dispensaries/greenmart-the-superstore#/details
-619829063,Herbal Wellness Center - Phoenix,4126 W Indian School Rd,Phoenix,AZ,85019,6026353502,"August 30th, 2013",medical,http://weedmaps.com/dispensaries/herbal-wellness-center#/details
-778824709,UNITED MEDICAL ALLIANCE,18446 Hart St. Unit M2,Reseda,CA,91335,8187467313,"July 12th, 2012",medical,http://weedmaps.com/dispensaries/bmc-2#/details
-255536494,Cannabicare,1466 Woolsey Heights,Colorado Springs,CO,80915,7195732262,"May 13th, 2010",medical,http://weedmaps.com/dispensaries/cannabicare#/details
-844520110,Hemphill Wellness Center,3365 Associates Drive,Burton,MI,48529,8108203812,"January 27th, 2012",medical,http://weedmaps.com/dispensaries/hemphill-wellness-center#/details
-195655351,Strange Therapy Solutions,2781 West Ramsey Suite 7,Banning,Ca,92543,8774208886,"January 22nd, 2015",medical,http://weedmaps.com/dispensaries/strange-therapy-solutions#/details
-751705521,Ultra Collective,7558 Trade Street,San Diego,CA,92121,7607081375,"March 11th, 2015",medical,http://weedmaps.com/dispensaries/ultra-collective-2-2#/details
-771448587,ShowGrow Santa Ana,1625 E St. Gertrude Place,Santa Ana,CA,92705,949565GROW,"December 18th, 2015",medical,http://weedmaps.com/dispensaries/showgrow-santa-ana#/details
-168981790,VHC Pre-ICO,11300 TUXFORD ST,SUN VALLEY,CA,91352,8183706677,"June 25th, 2011",medical,http://weedmaps.com/dispensaries/vhc-valley-herbal-center-sun-valley-91352#/details
-561665757,Helping Hand Holistic Center,20245 Van Dyke Ave.,Detroit,MI,48234,313.733.6693,"March 19th, 2011",medical,http://weedmaps.com/dispensaries/helpinghandholisticcenter#/details
-561665757,Helping Hand Holistic Center,20245 Van Dyke Ave.,Detroit,MI,48234,313.733.6693,"March 19th, 2011",medical,http://weedmaps.com/dispensaries/helpinghandholisticcenter#/details
-639525396,CannaCure,"50 Ecorse Road, Suite B",Ypsilanti,MI,48198,7344841990,"May 5th, 2012",medical,http://weedmaps.com/dispensaries/cannacure#/details
-690974592,V \u0026 G COLLECTIVE,2309 Chester Avenue,Bakersfield,CA,93301,6613279000,"August 2nd, 2010",medical,http://weedmaps.com/dispensaries/v-g-collective#/details
-610257762,Herbal Legends Cannabis - Medical + Recreational 21+ ,2118 James Street,Bellingham,WA,98225,360.778.3904,"September 7th, 2011",recreational,http://weedmaps.com/dispensaries/healthy-living-cooperative#/details
-838866955,TOP SHELF 30 CAP COLLECTIVE ,6024 Tyler St,Riverside,CA,92503,9095337835,"April 7th, 2015",medical,http://weedmaps.com/dispensaries/r-c-p-a#/details
-468075133,Dank City,5233 Tyler ave,Temple city,CA,91780,6264766482,"June 23rd, 2015",medical,http://weedmaps.com/dispensaries/temple-greens#/details
-494379557,SunGrow - Palm Springs,17003 Palm Dr,Desert Hot Springs,CA,92240,7603295000,"February 23rd, 2015",medical,http://weedmaps.com/dispensaries/sungrow#/details
-741738982,Glendale Greenhouse ,8160 W. Union Hills Dr.,Glendale,AZ,85308,6233851310,"February 12th, 2015",medical,http://weedmaps.com/dispensaries/glendale-greenhouse#/details
-380891366,MJINC,1092 N E. Street,San Bernardino,CA,92410,9095217499,"August 31st, 2012",medical,http://weedmaps.com/dispensaries/mjinc-san-bernardino#/details
-753808995,LAXCC  PRE-ICO,8332 Lincoln Blvd.,Los Angeles,CA,90045,13104399189,"March 2nd, 2013",medical,http://weedmaps.com/dispensaries/premium-pacific#/details
-753808995,LAXCC  PRE-ICO,8332 Lincoln Blvd.,Los Angeles,CA,90045,13104399189,"March 2nd, 2013",medical,http://weedmaps.com/dispensaries/premium-pacific#/details
-790718971,Green Pharm ,7455 Gratiot Ave next to Boost Mobile,Detroit,Michigan,48213,3133320717,"March 22nd, 2014",medical,http://weedmaps.com/dispensaries/green-pharm-clinic#/details
-819187835,A NEW SPIRIT - Perris,620 Indian Hills Circle (Unit D first floor NEW SPIRIT),Perris,CA,92570,9519400904,"September 19th, 2013",medical,http://weedmaps.com/dispensaries/t-h-c-perris#/details
-669396787,BEACH Center - South Bay,1115 West 190th St.,Torrance,CA,90248,3108214420,"December 4th, 2012",medical,http://weedmaps.com/dispensaries/beach-center#/details
-669396787,BEACH Center - South Bay,1115 West 190th St.,Torrance,CA,90248,3108214420,"December 4th, 2012",medical,http://weedmaps.com/dispensaries/beach-center#/details
-718612704,Maggies Farm Pueblo East - Adult Use,1400 Santa Fe Dr.,Pueblo,CO,81006,7195821925,"November 14th, 2014",recreational,http://weedmaps.com/dispensaries/maggies-farm-pueblo-east#/details
-688640422,Wilshire Wellness-Anaheim,"292 N. Wilshire Ave., UNIT A",Anaheim,Ca,92801,7145619869,"February 10th, 2016",medical,http://weedmaps.com/dispensaries/wilshire-wellness#/details
-787696576,Green Acres,3912 Portola Dr. Ste. 1,Santa Cruz,CA,95062,8314758420,"June 27th, 2011",medical,http://weedmaps.com/dispensaries/green-acres#/details
-847557484,GREENWOLF LA Pre ICO,"2950 Los Feliz, Unit 100 (Free Parking in rear, entrance on Revere Ave. )",Los Angeles,California,90039,3236689390,"May 25th, 2014",medical,http://weedmaps.com/dispensaries/greenwolf-la#/details
-847557484,GREENWOLF LA Pre ICO,"2950 Los Feliz, Unit 100 (Free Parking in rear, entrance on Revere Ave. )",Los Angeles,California,90039,3236689390,"May 25th, 2014",medical,http://weedmaps.com/dispensaries/greenwolf-la#/details
-373431267,SWC Tempe State Licensed Dispensary ,2009 East 5th St Suite 11,Tempe,AZ,85281,4802456751,"July 3rd, 2013",medical,http://weedmaps.com/dispensaries/swc-tempe-state-licensed-dispensary#/details
-241181260,Green Gardens,6102 Etiwanda Ave,Jurupa Valley,Ca,91752,9093808303,"January 29th, 2016",medical,http://weedmaps.com/dispensaries/green-gardens-2#/details
-118377823,The WEED - Wellness Earth Energy Dispensary,11557 Ventura Blvd.,Studio City,CA,91604,8189802266,"June 1st, 2012",medical,http://weedmaps.com/dispensaries/concentrate-leader#/details
-431856243,Pure West,840 N. Black River Dr. Suite #80,Holland,MI,49424,6164664204,"March 11th, 2011",medical,http://weedmaps.com/dispensaries/pure-west#/details
-363505810,Happy Leaf,1301 NE Broadway,Portland,Oregon,97232,9718000420,"January 23rd, 2015",medical,http://weedmaps.com/dispensaries/happy-leaf#/details
-279001824,S\u0026B Holistic Center,20477 Schaefer Hwy,Detroit,Michigan,48235,3133402253,"April 19th, 2012",medical,http://weedmaps.com/dispensaries/shakeandbake#/details
-298152814,Next Level Caregivers,31251 Highway 74,Homeland,CA,92548,9519260261Delivery:9512307367,"January 7th, 2011",medical,http://weedmaps.com/dispensaries/next-level-caregivers-homeland#/details
-298152814,Next Level Caregivers,31251 Highway 74,Homeland,CA,92548,9519260261Delivery:9512307367,"January 7th, 2011",medical,http://weedmaps.com/dispensaries/next-level-caregivers-homeland#/details
-341877529,MR NICE GUY,1126 S. Los Angeles St. Unit B,LOS ANGELES,CA,90015,2132734543,"May 20th, 2011",medical,http://weedmaps.com/dispensaries/mr-nice-guy-collective#/details
-324595789,W main WC,905 W Main Street Suite F,El Cajon,CA,92020,6193069538,"September 24th, 2014",medical,http://weedmaps.com/dispensaries/greenfield-flowers#/details
-469441859,Limitless Care Collective,1737 Garnet Ave,Pacific Beach,CA,92109,6193018903,"May 19th, 2015",medical,http://weedmaps.com/dispensaries/limitless-care-collective#/details
-937508609,Venice Beach Care Center ,410 Lincoln Blvd,Venice,CA,90291,3103994307,"February 25th, 2013",medical,http://weedmaps.com/dispensaries/venice-beach-care-center#/details
-254256840,The High Church - Temecula,47991 Rainbow Canyon Rd.,Temecula,CA,92592,7604681658,"January 21st, 2016",medical,http://weedmaps.com/dispensaries/the-high-church#/details
-254256840,The High Church - Temecula,47991 Rainbow Canyon Rd.,Temecula,CA,92592,7604681658,"January 21st, 2016",medical,http://weedmaps.com/dispensaries/the-high-church#/details
-906594650,ECC Ease Compassion Collective,2435 E. Orangethorpe Ave.,Fullerton,CA,92831,7143097772,"May 11th, 2015",medical,http://weedmaps.com/dispensaries/e-c-c-ease-compassion-collective#/details
-906594650,ECC Ease Compassion Collective,2435 E. Orangethorpe Ave.,Fullerton,CA,92831,7143097772,"May 11th, 2015",medical,http://weedmaps.com/dispensaries/e-c-c-ease-compassion-collective#/details
-551035639,Mr. Naturals 35 Cap,521 S. ALVARADO ST (EL POLLO LOCO LOT),LA,CA,90057,2132568312,"January 28th, 2015",medical,http://weedmaps.com/dispensaries/mr-naturals#/details
-551035639,Mr. Naturals 35 Cap,521 S. ALVARADO ST (EL POLLO LOCO LOT),LA,CA,90057,2132568312,"January 28th, 2015",medical,http://weedmaps.com/dispensaries/mr-naturals#/details
-344940858,Green Nectar - (Mankind Coop),7128 Miramar Rd. Suite 10 (UPSTAIRS),San Diego,CA,92121,8582222527,"May 9th, 2012",medical,http://weedmaps.com/dispensaries/green-nectar-all-8ths-are-4-0-gs-2#/details
-406217999,Natural Herbal Pain Relief N.H.P.R ,2121 S. 10th Street,San Jose,CA,95112,408BUDWEED2839333,"December 26th, 2009",medical,http://weedmaps.com/dispensaries/natural-herbal-pain-relief#/details
-538970633,Desert Bloom Re-Leaf Center,8060 E 22nd St Suite 108,Tucson,AZ,85710,5208861760,"June 25th, 2013",medical,http://weedmaps.com/dispensaries/desert-bloom-re-leaf-center#/details
-538970633,Desert Bloom Re-Leaf Center,8060 E 22nd St Suite 108,Tucson,AZ,85710,5208861760,"June 25th, 2013",medical,http://weedmaps.com/dispensaries/desert-bloom-re-leaf-center#/details
-671786787,Mercy Wellness of Cotati,7950 Redwood Dr. Suite 9,Cotati,CA,94931,7077951600,"July 3rd, 2010",medical,http://weedmaps.com/dispensaries/mercy-wellness#/details
-708351827,Triple C Cannabis Club,2706 6th Ave,North Tacoma,WA,98406,2535074725,"February 15th, 2011",medical,http://weedmaps.com/dispensaries/cannabisclubcollective#/details
-438366567,THC - The Healing Center ,1400 Needles Hwy. Unit 100,Needles,CA,92363,7604472663,"November 26th, 2013",medical,http://weedmaps.com/dispensaries/thc-the-healing-center-needles-walk-in#/details
-136018016,Magnolia Wellness,161 Adeline Street (Right behind Nellie's Soulfood Restaurant),Oakland,CA,94607,510.333.6460,"August 1st, 2013",medical,http://weedmaps.com/dispensaries/magnolia-wellness-2#/details
-525207879,Upland's Finest Collective ,1816 W Foothill Blvd,Upland,CA,91786,9097670412,"February 11th, 2016",medical,http://weedmaps.com/dispensaries/upland-s-finest-collective#/details
-122563175,DC Collective,8053 Deering Ave.,Canoga Park,CA,91304,8188870980,"February 25th, 2013",medical,http://weedmaps.com/dispensaries/dc-collective#/details
-932159285,Acme Silver Place,1261 S Hacienda Blvd (right before 60 W Fwy on-ramp),Hacienda Heights,CA,91745,6263303121,"February 1st, 2013",medical,http://weedmaps.com/dispensaries/the-clinic-walk-ins-welcome#/details
-175253102,Organica Patient Group,856 S Hwy 89,Chino Valley,AZ,86323,9286365566,"May 22nd, 2013",medical,http://weedmaps.com/dispensaries/organica-patient-group#/details
-640193561,Silver State Relief,175 E. Greg St,Sparks,Nevada,89431,7754407777,"January 27th, 2015",medical,http://weedmaps.com/dispensaries/silver-state-relief#/details
-889593398,AHHSWEHO (Alternative Herbal Health Services),7828 Santa Monica Blvd.,West Hollywood,CA,90046,3236548792,"March 13th, 2014",medical,http://weedmaps.com/dispensaries/alternative-herbal-health-services#/details
-197335279,Prime Greens,4205 Market Street,San Diego,CA,92102,6193800185,"November 23rd, 2013",medical,http://weedmaps.com/dispensaries/markert-street#/details
-814668606,Purple Star MD,2520 Mission street,San Francisco,CA,94110,4155501515,"April 5th, 2013",medical,http://weedmaps.com/dispensaries/purple-star-md#/details
-814668606,Purple Star MD,2520 Mission street,San Francisco,CA,94110,4155501515,"April 5th, 2013",medical,http://weedmaps.com/dispensaries/purple-star-md#/details
-951074969,99 High Tide ,22775 Pacific Coast Highway,Malibu,CA,90265,3104569930,"March 30th, 2015",medical,http://weedmaps.com/dispensaries/99-high-tide-collective#/details
-695605043,Sunrise Wellness Center,1069 South Santa Fe (between the Boats and RVs),Vista,CA,92083,7605094402,"February 3rd, 2015",medical,http://weedmaps.com/dispensaries/sunrise-wellness-center-2#/details
-683598472,Sugar Shack,2530 South Santa Fe,Vista,CA,92084,7605363391,"December 15th, 2015",medical,http://weedmaps.com/dispensaries/sugar-shack#/details
-284068831,Blue Stone Group ,18925 Grand Avenue,Lake Elsinore,CA,92530,9516787262,"September 23rd, 2015",medical,http://weedmaps.com/dispensaries/blue-stone-group#/details
-284068831,Blue Stone Group ,18925 Grand Avenue,Lake Elsinore,CA,92530,9516787262,"September 23rd, 2015",medical,http://weedmaps.com/dispensaries/blue-stone-group#/details
-170276002,Pure Options,6030 South Pennsylvania Ave. #8,Lansing,MI,48911,5177211439,"June 11th, 2014",medical,http://weedmaps.com/dispensaries/pure-options#/details
-562402367,Venice Medical Center - VMC-OPEN NOW,8940 National Blvd UNIT B,Los Angeles,CA,90034,4246034448,"July 16th, 2011",medical,http://weedmaps.com/dispensaries/venice-medical-center#/details
-361204515,ORGANIX - Adult Use,1795 Airport Rd Unit A2,Breckenridge,Colorado,80424,9704531340,"January 7th, 2014",recreational,http://weedmaps.com/dispensaries/organix-adult-use#/details
-794893139,The Clinic Colorado - Medical,3888 E Mexico Ave. #110,Denver,CO,80210,3037589114,"November 11th, 2009",medical,http://weedmaps.com/dispensaries/the-clinic-colorado-denver#/details
-462284322,Fresh Baked Dispensary Boulder - Adult Use,2539 Pearl Street,Boulder,CO,80302,303.440.9393,"February 20th, 2010",recreational,http://weedmaps.com/dispensaries/boulder-fresh-baked-dispensary#/details
-462284322,Fresh Baked Dispensary Boulder - Adult Use,2539 Pearl Street,Boulder,CO,80302,303.440.9393,"February 20th, 2010",recreational,http://weedmaps.com/dispensaries/boulder-fresh-baked-dispensary#/details
-477397194,Community First Collective - Corona ,13490 Magnolia Ave,Corona,ca,92879,9099635816,"January 29th, 2016",medical,http://weedmaps.com/dispensaries/community-first-collective-corona#/details
-193344064,"The Kind Center, Inc. ",7832 Balboa Blvd.,Van Nuys,California,91406,8186164335,"October 22nd, 2013",medical,http://weedmaps.com/dispensaries/the-kind-center-inc#/details
-452282162,The Clinic Highlands - Medical,3460 W. 32nd Ave,Denver,CO,80211,3039977130,"June 3rd, 2011",medical,http://weedmaps.com/dispensaries/the-clinic-highlands#/details
-452282162,The Clinic Highlands - Medical,3460 W. 32nd Ave,Denver,CO,80211,3039977130,"June 3rd, 2011",medical,http://weedmaps.com/dispensaries/the-clinic-highlands#/details
-499940621,ONAC of East Bay,2615 Oliver Drive,Hayward,CA,94545,5103639169,"August 27th, 2015",medical,http://weedmaps.com/dispensaries/onac-of-east-bay#/details
-624737100,ANIMAS HERBAL RECREATIONAL,1111 CAMINO DEL RIO ste 5,DURANGO,CO,81301,9703858622,"October 28th, 2010",recreational,http://weedmaps.com/dispensaries/animas-herbal-wellness-center#/details
-273190222,Huntington Beach Healing Center,17875 Beach Blvd,Huntington Beach,CA,92647,7143758918,"October 27th, 2015",medical,http://weedmaps.com/dispensaries/huntington-beach-healing-center#/details
-641183377,The Holistic Center - Modesto,4819 Yosemite Blvd,Empire,CA,95319,2095501615,"June 5th, 2015",medical,http://weedmaps.com/dispensaries/the-holistic-center-modesto#/details
-687828586,1 Stop GG,14136 Brookhurst Street,Garden Grove,CA,92843,7145897444,"July 18th, 2014",medical,http://weedmaps.com/dispensaries/onestopoc-2-5#/details
-687828586,1 Stop GG,14136 Brookhurst Street,Garden Grove,CA,92843,7145897444,"July 18th, 2014",medical,http://weedmaps.com/dispensaries/onestopoc-2-5#/details
-417328408,Green Remedy,2928 Unit C Hilltop Mall Rd,Richmond,CA,94806,5107587898,"January 21st, 2012",medical,http://weedmaps.com/dispensaries/green-remedy#/details
-851029311,Organic Greens Collective,298 Orange Ave Suite B,Goleta,California,93117,805.770.0580,"May 26th, 2015",medical,http://weedmaps.com/dispensaries/organic-greens-collective#/details
-490818388, Pacific Green \u0026 Delivery - Puyallup ,6223 112th St E,Puyallup,WA,98373,2532564223,"April 14th, 2014",medical,http://weedmaps.com/dispensaries/pacific-green-puyallup#/details
-490818388, Pacific Green \u0026 Delivery - Puyallup ,6223 112th St E,Puyallup,WA,98373,2532564223,"April 14th, 2014",medical,http://weedmaps.com/dispensaries/pacific-green-puyallup#/details
-899658414,Trinidad's HIgher Calling U,1000 Independence Road,Trinidad,CO,81082,7198460420,"October 8th, 2014",recreational,http://weedmaps.com/dispensaries/trinidads-higher-calling-u#/details
-564508367,The Clinic on Wadsworth - Medical,3600 S. Wadsworth Blvd,Lakewood,CO,80235,3034848853,"January 17th, 2011",medical,http://weedmaps.com/dispensaries/the-clinic-on-wadsworth#/details
-267041464,Nu Remedy Health Care,1470 E Walnut,Pasadena,Ca,91106,6266397422,"February 18th, 2015",medical,http://weedmaps.com/dispensaries/city-wellness-2#/details
-488597322,Long Beach Fire House,1845 E. Pacific Coast Hwy,Long Beach,CA,90806,5625331397,"January 12th, 2016",medical,http://weedmaps.com/dispensaries/long-beach-daily-deals#/details
-980460212,Native Roots Downtown,1555 Champa St,Denver,CO,80202,3036231900,"March 18th, 2010",medical,http://weedmaps.com/dispensaries/native-roots-apothecary#/details
-396254097,Native Roots Frisco,861 North Summit Blvd,Frisco,Colorado,80443,9703686024,"December 7th, 2014",medical,http://weedmaps.com/dispensaries/native-roots-summit-medical-frisco-silverthorne#/details
-765017016,NevadaPURE\u2122,4380 Boulder Hwy,Las Vegas,NV,89121,7024444824,"November 23rd, 2015",medical,http://weedmaps.com/dispensaries/nevadapure#/details
-948771033,Chubby's Med House,5505 Moreno st  Suite 105,Montclair,CA,91763   2 OZ FOR $250,9099933906,"December 10th, 2015",medical,http://weedmaps.com/dispensaries/chubby-s-med-house#/details
-629027295,11th St. Well-Health,7650 W. 11th St.,Tracy,CA,95304,2092817130,"December 7th, 2015",medical,http://weedmaps.com/dispensaries/11th-st-well-health#/details
-783448329,Strawberry Fields - Medical,3404 West Colorado Avenue,Colorado Springs,CO,80904,7194712837,"August 24th, 2010",medical,http://weedmaps.com/dispensaries/strawberryfields#/details
-783448329,Strawberry Fields - Medical,3404 West Colorado Avenue,Colorado Springs,CO,80904,7194712837,"August 24th, 2010",medical,http://weedmaps.com/dispensaries/strawberryfields#/details
-392510016,Organic Alternatives,346 E Mountain Avenue,Fort Collins,CO,80524,9704827100,"February 13th, 2010",recreational,http://weedmaps.com/dispensaries/organic-alternatives#/details
-396225674,Elemental Wellness,985 Timothy Drive,San Jose,CA,95133,4084333344,"May 9th, 2010",medical,http://weedmaps.com/dispensaries/elementalwellness#/details
-440496244,Monterey Bay Alternative Medicine,800 Portola Drive,Del Rey Oaks,CA,93940,8313932500,"March 2nd, 2015",medical,http://weedmaps.com/dispensaries/monterey-bay-alternative-medicine#/details
-972630830,MiNDFUL,1017 N 2nd Street,Berthoud,CO,80513,9706446550,"December 30th, 2009",medical,http://weedmaps.com/dispensaries/mindful#/details
-749716032,SCCC,135 Main Ave,Sacramento,CA,95838,9162543287,"November 30th, 2011",medical,http://weedmaps.com/dispensaries/true-compassion-cooperative#/details
-988142394,Green Mammoth,94 Laurel Mt. Rd. Suite 420,Mammoth Lakes,California,93546,7609345400,"March 22nd, 2013",medical,http://weedmaps.com/dispensaries/green-mammoth#/details
-165216991,Nevada Medical Marijuana ,1975 S. Casino Dr.,Laughlin,NV,89029,7022984810,"December 4th, 2015",medical,http://weedmaps.com/dispensaries/nevada-medical-marijuana-2#/details
-165216991,Nevada Medical Marijuana ,1975 S. Casino Dr.,Laughlin,NV,89029,7022984810,"December 4th, 2015",medical,http://weedmaps.com/dispensaries/nevada-medical-marijuana-2#/details
-800915066,The Healing Center of Olympia,316 Capitol Way N,Olympia,WA,98501,3605150258,"April 19th, 2011",medical,http://weedmaps.com/dispensaries/the-healing-center-2-2#/details
-481233639,Rocky Mountain Remedies - Recreational,2730 Downhill Plaza #106,Steamboat Springs,Colorado,80487,9708712768,"January 8th, 2014",recreational,http://weedmaps.com/dispensaries/rocky-mountain-remedies-adult-use#/details
-736348871,Sweet Relief - Astoria,1444 Commercial St.,Astoria,OR,97103,5034680881,"May 12th, 2014",medical,http://weedmaps.com/dispensaries/sweet-relief-natural-medicine#/details
-126055142,Tahoe Wellness Cooperative,3445 Lake Tahoe Blvd.,South Lake Tahoe,CA,96150,5305448000,"April 6th, 2010",medical,http://weedmaps.com/dispensaries/tahoewellnesscooperative#/details
-981367451,Cookies SF,5234 Mission St.,San Francisco,CA,94112,4157695001,"August 2nd, 2013",medical,http://weedmaps.com/dispensaries/cookies-sf#/details
-981367451,Cookies SF,5234 Mission St.,San Francisco,CA,94112,4157695001,"August 2nd, 2013",medical,http://weedmaps.com/dispensaries/cookies-sf#/details
-745133246,Terrapin Care Station - 33rd Ave. - Adult Use,11900 East 33rd Ave.,Aurora,CO,80010,3039548402,"October 13th, 2014",recreational,http://weedmaps.com/dispensaries/terrapin-care-station-aurora-33rd-ave-recreational-adult-use#/details
-998081648,ShowGrow Ramona,736 Montecito Way,Ramona,CA,92065,7606879700,"February 24th, 2016",medical,http://weedmaps.com/dispensaries/showgrow-ramona#/details
-490067962,The Green Stop,130 Maine St,Log Lane Village,Colorado,80705,970867STOP7867,"December 3rd, 2014",recreational,http://weedmaps.com/dispensaries/the-green-stop#/details
-232611200,Native Roots Vail/Beaver Creek,41290 Hwy 6 Bldg. 5,Avon,Colorado,81620,9704704079,"September 4th, 2014",medical,http://weedmaps.com/dispensaries/native-roots-vail-2#/details
-121739606,Stone Age Farmacy,8621 SW Canyon Dr,Portland,Oregon,97225,5032068785,"February 20th, 2015",medical,http://weedmaps.com/dispensaries/the-stone-age-pharmacy-pdx#/details
-129339909,Harvest Collective,54200 NORTH CIRCLE DR.suite C1.,Idyllwild,CA,92549,"9516636487Alsodeliversinidyllwild,Anza,pinecove,ajuanga40$min,5$deliveryfeeifunder100$donation","October 10th, 2015",medical,http://weedmaps.com/dispensaries/harvest-collective-2-2-2#/details
-424618954,Green City Collective - Recreational,13601 Highway 99 Suite B,Everett,Wa,98204,4252458706,"January 10th, 2015",recreational,http://weedmaps.com/dispensaries/green-city-collective-3#/details
-642503170,Puddletown Organics,"8201 SE Powell Blvd, Suite F",Portland,OR,97266,5035586321,"October 20th, 2015",medical,http://weedmaps.com/dispensaries/puddletown-organics-2-2#/details
-803037663,Greenthumb Silverdale,2839 NW Kitsap Place #A,Silverdale,Wa,98383,3606980353,"November 9th, 2011",medical,http://weedmaps.com/dispensaries/tacoma-greenthumb-silverdale#/details
-398550220,LaContes Clone Bar + Dispensary Medical,5194 Washington St,Denver,CO,80216,3032922252,"November 20th, 2010",medical,http://weedmaps.com/dispensaries/lacontescbd#/details
-136413250,AllWell Natural Health,845 S. Otsego Ave.,Gaylord,MI,49735,9894482657,"July 8th, 2015",medical,http://weedmaps.com/dispensaries/allwell-natural-health#/details
-824646535,Headquarters Cannabis Company Longmont - Recreational,4497 Ute Highway,Longmont,CO,80503,3038235143,"December 4th, 2014",recreational,http://weedmaps.com/dispensaries/headquarters-cannabis-company-recreational-longmont#/details
-153010358,Mountain Medicinals Retail Center - Recreational,2313 Colorado Blvd,Idaho Springs,CO,80452,3035670420,"February 3rd, 2014",recreational,http://weedmaps.com/dispensaries/mountain-medicinals-wellness-center-recreational#/details
-412232081,Freedom Market - Recreational,820 Westside Highway,Kelso,WA,98626,3606360420,"July 8th, 2014",recreational,http://weedmaps.com/dispensaries/freedom-market-recreational#/details
-401451608,C.Efforts,2831 Fruitridge Rd Suite E,Sacramento,CA,95820,9164751857,"January 22nd, 2014",medical,http://weedmaps.com/dispensaries/collective-efforts-grand-open#/details
-571507776,CG Corrigan - Gulton,6614 Gulton Court NE,Albuquerque,New Mexico,87109,5059335599,"July 6th, 2015",medical,http://weedmaps.com/dispensaries/cg-corrigan-gulton-2#/details
-633489678,Natural Mystic Wellness Center,204 E Main St./ PO Box 1881,Buena Vista,CO,81211,719.395.6226,"March 3rd, 2011",medical,http://weedmaps.com/dispensaries/natural-mystic-wellness-center#/details
-351044032,Native Roots Aspen,308 S. Hunter Street,Aspen,CO,81611,9704294443,"January 16th, 2015",recreational,http://weedmaps.com/dispensaries/native-roots-aspen#/details
-110481385,Native Roots Littleton,7870 W. Quincy Ave,Denver,CO,80123,303933HERB4372,"August 19th, 2015",medical,http://weedmaps.com/dispensaries/native-roots-littleton#/details
-180680937,Sahara Wellness - Las Vegas,420 E Sahara Avenue,Las Vegas,NV,89104,7024785533,"August 31st, 2015",medical,http://weedmaps.com/dispensaries/sahara-wellness#/details
-552934598,The Clinic,678 N Wilson Way 1,Stockton,CA,95205,2099370193,"August 20th, 2015",medical,http://weedmaps.com/dispensaries/stockton-patient-clinic#/details
-306792425,Sunflower Meds Mesa,5205 E University Dr,Mesa,Az,85205,4805005054,"December 17th, 2015",medical,http://weedmaps.com/dispensaries/sunflower-meds-mesa#/details
-275628785,The Clinic on Colfax - Recreational,4625 E. Colfax Ave,Denver,Colorado,80220,3033333644,"June 18th, 2015",recreational,http://weedmaps.com/dispensaries/the-clinic-on-colfax-recreational#/details
-219734472,Apothekare,5125 Convoy Street Unit #211,San Diego,CA,92111,8588361303,"February 26th, 2016",medical,http://weedmaps.com/dispensaries/apothekare#/details
-826889132,The Church of the Everlasting Green,40 Tennessee st,Vallejo,CA,94590,7079807937,"October 21st, 2015",medical,http://weedmaps.com/dispensaries/the-dispensary-2-2#/details
-190656679,Kure Wellness,800 Lake Mendocino,Ukiah,CA,95482,7076215390,"April 9th, 2015",medical,http://weedmaps.com/dispensaries/kure-wellness-2#/details
-215904592,SkunkRx,8979 Rogue River Hwy,Rogue River,Oregon,97527,5412990599,"August 6th, 2015",medical,http://weedmaps.com/dispensaries/skunkrx#/details
-766448433,NETA - Northampton,118 Conz St.,Northampton,MA,01060,4137278415,"October 5th, 2015",medical,http://weedmaps.com/dispensaries/new-england-treatment-access#/details
-321821160,GreenHead Cannabis,"2815 St. Johns Blvd, STE B",Vancouver,WA,98661,3604339753,"August 12th, 2015",recreational,http://weedmaps.com/dispensaries/greenhead-cannabis-2#/details
-252244050,Superior Organics,750 S Belmont Ave,Superior,AZ,85173,5206891960,"September 18th, 2013",medical,http://weedmaps.com/dispensaries/superior-organics-2-2#/details
-555346368,Cannabis Central,1516 W University Way,Ellensburg,WA,98926,5092011144,"August 24th, 2014",recreational,http://weedmaps.com/dispensaries/cannabis-central#/details
-338118719,Thomas C. Slater Compassion Center,1 Corliss Street,Providence,Rhode Island,02904,4012741000,"July 12th, 2013",medical,http://weedmaps.com/dispensaries/thomas-c-slater-compassion-center#/details
-507280973,Banana Belt Safe Access Center,16399 Lower Harbor Road,Harbor,Oregon,97415,5418132503,"July 22nd, 2015",medical,http://weedmaps.com/dispensaries/banana-belt-safe-access-center-2#/details
-988261275,U.P. Premier Caregivers,5th Street,Calumet,MI,49913,emailustobecomeapatient,"December 11th, 2015",medical,http://weedmaps.com/dispensaries/u-p-caregivers#/details
-632989533,TJ's Organic Provisions,1910 Empire Park Drive,Eugene,OR,97402,5415057105,"August 31st, 2015",medical,http://weedmaps.com/dispensaries/tj-s-organic-provisions#/details
-732022609,Mountain View Naturals,1020 Wasco Ave Suite E,Hood River,Oregon,97031,5414363333,"September 16th, 2014",medical,http://weedmaps.com/dispensaries/mountain-view-naturals#/details
-527818087,PDI Medical,1623 Barclay Blvd,Buffalo Grove,IL,60089,2243779734,"December 22nd, 2015",medical,http://weedmaps.com/dispensaries/pdi-medical#/details
-577726659,Heaven,By Appointment Only,Fresno,CA,93704,5592173161,"March 7th, 2016",medical,http://weedmaps.com/dispensaries/heaven#/details
-952331450,Cave Creek Cannabis ,6812 E. Cave Creek Rd.,Cave Creek,Az,85331,4807798420,"January 20th, 2016",medical,http://weedmaps.com/dispensaries/cave-creek-cannabis#/details
-952331450,Cave Creek Cannabis ,6812 E. Cave Creek Rd.,Cave Creek,Az,85331,4807798420,"January 20th, 2016",medical,http://weedmaps.com/dispensaries/cave-creek-cannabis#/details
-772721420,"Buds, Ltd.",104 Cardinal Way,Parachute,CO,81635,9702859307,"December 13th, 2015",recreational,http://weedmaps.com/dispensaries/buds-ltd#/details
-461878096,Emerald Haze Cannabis Emporium - Renton,4033 NE Sunset Blvd Suite #5,Renton,WA,98056,4257934293,"April 24th, 2015",recreational,http://weedmaps.com/dispensaries/emerald-haze-cannabis-emporium#/details
-771087688,Chula Vista Greens,1037 Broadway Suite G,Chula Vista,Ca,91911,6192133577,"September 9th, 2015",medical,http://weedmaps.com/dispensaries/chula-vista-greens#/details
-511287587,Empire Collective SD,8622 Troy Street,Spring Valley,CA,91977,6197044475,"April 22nd, 2015",medical,http://weedmaps.com/dispensaries/empire-collective-sd#/details
-511287587,Empire Collective SD,8622 Troy Street,Spring Valley,CA,91977,6197044475,"April 22nd, 2015",medical,http://weedmaps.com/dispensaries/empire-collective-sd#/details
-812882358,Discount Hunter,1042 S Santa Fe Ave,Vista,CA,92084,4422327371,"July 16th, 2015",medical,http://weedmaps.com/dispensaries/vista-discount-hunter#/details
-159581771,FAMOUS ROOTS,12708 Foothill Blvd,Sylmar,CA,91342,8183366115,"August 17th, 2015",medical,http://weedmaps.com/dispensaries/famous-roots#/details
-427906406,HTC HIGH TIDE CHURCH GRAND OPENING!!!,19142 Beach Blvd Unit F,Huntington Beach,CA,92648,7147426979,"July 27th, 2015",medical,http://weedmaps.com/dispensaries/htc-high-tide-church-grand-opening#/details
-427906406,HTC HIGH TIDE CHURCH GRAND OPENING!!!,19142 Beach Blvd Unit F,Huntington Beach,CA,92648,7147426979,"July 27th, 2015",medical,http://weedmaps.com/dispensaries/htc-high-tide-church-grand-opening#/details
-315448099,Florence Canna Clinic FCC,357 East Florence Ave,Los Angeles,CA,90003,3235319257,"November 12th, 2014",medical,http://weedmaps.com/dispensaries/skyline#/details
-764406533,Organic Greens,4274 El Cajon Blvd #D,San Diego,CA,92105,6194842470,"October 15th, 2015",medical,http://weedmaps.com/dispensaries/5-diamond-meds#/details
-264186213,Green Land,40354 167th Street East,Palmdale,CA,93591,6614414700,"October 28th, 2014",medical,http://weedmaps.com/dispensaries/green-land#/details
-266335204,Canoga's Finest,7230 Variel Ave.  Unit #A,Canoga Park,CA,91303,8184664854,"August 22nd, 2014",medical,http://weedmaps.com/dispensaries/canogas-finest#/details
-830188478,Rite Greens SD,DELIVERY ONLY,San Diego,CA,91942,"6197535012WEAREDELIVERYONLY,NOTASTOREFRONT","April 27th, 2015",medical,http://weedmaps.com/dispensaries/south-bay-greens-3#/details
-808729785,HIGHWAY 99 COLLECTIVE,19456 Colombo Street Suite H,Bakersfield,Ca,93308,6613919825,"March 21st, 2013",medical,http://weedmaps.com/dispensaries/hwy-99-collective-grand-reopening#/details
-836403020,Euclid Medical Center (EMC),9757 Garden Grove Blvd #5,Garden Grove,CA,92844,7147192713,"March 13th, 2015",medical,http://weedmaps.com/dispensaries/euclid-medical-center-2#/details
-878670994,Clean Green 40 CAP 5G FTP ,"800 West Carson Street, suite 33 (Go past the first shop, we are the second one in the back)",Torrance,California,90502,3104028106,"March 22nd, 2015",medical,http://weedmaps.com/dispensaries/clean-green-40-cap-5g-ftp#/details
-694522483,Gardenas Med Center ,841 W Gardena Blvd,Los Angeles,CA,90247,3104934828,"April 15th, 2015",medical,http://weedmaps.com/dispensaries/gardena-s-finest#/details
-301468640,WhittierHotBox,13261 Imperial Highway,Whittier,CA,90602,5627585777,"September 12th, 2014",medical,http://weedmaps.com/dispensaries/whittierhotbox#/details
-487796572,EXHALE MED CENTER PRE-ICO,980 North La Cienega #102,Los Angeles,CA,90069,4242799497,"July 25th, 2013",medical,http://weedmaps.com/dispensaries/exhale-med-center#/details
-408422213,The Heights Collective,19261 Colima Rd UNIT D,Rowland Heights,CA,91748,6264304067,"August 24th, 2015",medical,http://weedmaps.com/dispensaries/the-heights#/details
-992924726,Wilmington Best Buds,1131 W. Anaheim St,Wilmington,CA,90744,5622852819,"November 12th, 2014",medical,http://weedmaps.com/dispensaries/wilmington-best-buds#/details
-599270028,TMC,7550 tampa ave #F,Reseda,CA,91335,8186546232,"May 21st, 2014",medical,http://weedmaps.com/dispensaries/tampa-wellness-inc#/details
-599270028,TMC,7550 tampa ave #F,Reseda,CA,91335,8186546232,"May 21st, 2014",medical,http://weedmaps.com/dispensaries/tampa-wellness-inc#/details
-645731732,Green Stop 35 Cap,2314 WHITTIER BLVD.,E. Los Angeles,CA,90023,6262408923,"September 19th, 2013",medical,http://weedmaps.com/dispensaries/alternative-solution#/details
-796613672,LOVE IN IT COOPERATIVE ,10464 LANSING STREET,MENDOCINO,CA,95460,7079373123,"February 14th, 2011",medical,http://weedmaps.com/dispensaries/love-in-it-cooperative#/details
-544080822,Urban Pharm ,122 10th Street,San Francisco,CA,94103,4158729488,"October 9th, 2015",medical,http://weedmaps.com/dispensaries/urban-pharm#/details
-906165743,TLC,9346 GALENA ST,Riverside,CA,92509,9513605654,"September 11th, 2012",medical,http://weedmaps.com/dispensaries/tlc-riverside#/details
-273738255,Golden Valley Collective,3912 Merrill AVe,Riverside,CA,92506,16572305576,"May 12th, 2015",medical,http://weedmaps.com/dispensaries/goldenvalleycollective#/details
-929881554,Ontana Planet Green,300 J St.,Needles,CA,92363,7603264440,"January 31st, 2013",medical,http://weedmaps.com/dispensaries/ontana-planet-green#/details
-347475042,Infinite Wellness Center - Adult Use,900 North College,Fort Collins,CO,80524,9704848380,"September 9th, 2014",recreational,http://weedmaps.com/dispensaries/infinite-wellness-center-2#/details
-766977412,White House- Corona,19470 Envoy Ave,Corona,CA,92881,7147070035,"February 26th, 2015",medical,http://weedmaps.com/dispensaries/white-castle-2#/details
-544160099,WWC ,217 E. Washington blvd,Los Angeles,CA,90015,7474007900,"July 14th, 2014",medical,http://weedmaps.com/dispensaries/washington-wellness-center-caregivers-inc#/details
-604884614,KUSH PALACE (PRE-ICO) BEST DAILY DEALS,10950 S. MAIN STREET,LOS ANGELES,CA,90061,3239842904,"December 9th, 2014",medical,http://weedmaps.com/dispensaries/kush-palace-pre-ico-best-daily-deals#/details
-770618377,The Green Room,18495 Mack Ave,Detroit,MI,48236,3134236892FREE8TH1STTIMEPATIENTS,"August 25th, 2014",medical,http://weedmaps.com/dispensaries/the-green-room-4#/details
-738193831,Arizona Natural Selections of Scottsdale,7320 E Butherus Dr #100,Scottsdale,AZ,85260,4805751245,"March 25th, 2014",medical,http://weedmaps.com/dispensaries/arizona-natural-selections-of-scottsdale#/details
-322914162,540 Collective,7809 S Western Ave,Los Angeles,CA,90047,5623403258,"December 9th, 2014",medical,http://weedmaps.com/dispensaries/mr-nice-pre-ico#/details
-465756010,Green Gold Cultivators,568 Angels Rd.,San Andreas,California,95249,2096748008,"November 4th, 2013",medical,http://weedmaps.com/dispensaries/green-gold-cultivators#/details
-156690125,Green Door Alternative,7304 Michigan Ave,Detroit,MI,48210,3132549468,"July 23rd, 2014",medical,http://weedmaps.com/dispensaries/green-door-alternative#/details
-846398960,Diamond Valley Caregivers,Call for address Baseline st.,San Bernardino,CA,92404,9093625835,"January 16th, 2014",medical,http://weedmaps.com/dispensaries/sky-high-alternative-care#/details
-161546983,G Mile,31651 Hwy 74,Homeland,CA,92548,9513255600,"October 1st, 2014",medical,http://weedmaps.com/dispensaries/g-mile#/details
-468416936,Kushmart,1343 S. Hill St,Los Angeles,CA,90015,3234646465,"May 9th, 2014",medical,http://weedmaps.com/dispensaries/kushmart-2#/details
-577568939,Californication ,104 South Pacific Ave,San Pedro,CA,90731,3109352409,"December 31st, 2014",medical,http://weedmaps.com/dispensaries/californication#/details
-326368906,Point Loma Patient Consumer Co-Op - Ocean Beach,3452 Hancock Street,San Diego,CA,92110,6195740415,"December 19th, 2014",medical,http://weedmaps.com/dispensaries/green-hope-delivery-mission-valley-2#/details
-326368906,Point Loma Patient Consumer Co-Op - Ocean Beach,3452 Hancock Street,San Diego,CA,92110,6195740415,"December 19th, 2014",medical,http://weedmaps.com/dispensaries/green-hope-delivery-mission-valley-2#/details
-413373966,HOLLYWEED,5142 Venice Blvd,Los Angeles,CA,90019,3239395299,"February 25th, 2013",medical,http://weedmaps.com/dispensaries/hollyweed#/details
-863133543,FOOTHILL WELLNESS CENTER - Pre ICO,7132 Foothill Blvd.,Tujunga,CA,91042,8183523388,"May 31st, 2013",medical,http://weedmaps.com/dispensaries/foothill-wellness-center-2#/details
-222469777,FireHouse,8941 W 8 Mile Road,Detroit,Michigan,48221,3136462903,"August 19th, 2015",medical,http://weedmaps.com/dispensaries/firehouse-2-2#/details
-813926864,Pueblo West Organics - Adult Use,609 E Enterprise Dr Ste 130,Pueblo West,CO,81007,7196472043,"February 24th, 2014",recreational,http://weedmaps.com/dispensaries/pueblo-west-organics-2#/details
-960863576,SCSA South Coast Safe Access - Santa Ana 92705,1900 Warner Ave. Unit A,Santa Ana,CA,92705,9494747272,"June 4th, 2011",medical,http://weedmaps.com/dispensaries/scsa-south-coast-safe-access#/details
-362035548,NNCC Inc. PRE-ICO ,9021 Exposition Blvd,Los Angeles,CA,90034,3102026622,"December 6th, 2012",medical,http://weedmaps.com/dispensaries/nncc-nature-s-natural-collective-care#/details
-362035548,NNCC Inc. PRE-ICO ,9021 Exposition Blvd,Los Angeles,CA,90034,3102026622,"December 6th, 2012",medical,http://weedmaps.com/dispensaries/nncc-nature-s-natural-collective-care#/details
-561638276,Zen Noho Prop D,5142 Vineland Avenue,North Hollywood,CA,91601,8184873737,"October 28th, 2013",medical,http://weedmaps.com/dispensaries/magnolia-wellness-center#/details
-387121343,Vallejo Holistic Health Center (VHHC),1516 Napa St,Vallejo,CA,94590,7076525018Storefront,"April 27th, 2013",medical,http://weedmaps.com/dispensaries/vallej-holistic-health-care#/details
-934009697,The Green Rose,4569 Melrose Ave,Hollywood,CA,90029,3235357427,"September 16th, 2015",medical,http://weedmaps.com/dispensaries/the-green-rose#/details
-934009697,The Green Rose,4569 Melrose Ave,Hollywood,CA,90029,3235357427,"September 16th, 2015",medical,http://weedmaps.com/dispensaries/the-green-rose#/details
-304113689,NICE SLEEP,750 South Vermont,Los Angeles,CA,90005,2135956274,"September 28th, 2013",medical,http://weedmaps.com/dispensaries/nice-sleep#/details
-304113689,NICE SLEEP,750 South Vermont,Los Angeles,CA,90005,2135956274,"September 28th, 2013",medical,http://weedmaps.com/dispensaries/nice-sleep#/details
-204153731,The Downtown Dispensary,221 E. 6th Street Suite #105,Tucson,AZ,85705,5208380492,"August 27th, 2013",medical,http://weedmaps.com/dispensaries/the-downtown-dispensary#/details
-390956991,Apothecary,15374 Dickens St.,Sherman Oaks,CA,91403,8189050420,"September 11th, 2013",medical,http://weedmaps.com/dispensaries/apothecary-sherman-oaks#/details
-277441645,FUEGO ,12632 E 8 MILE RD,DETROIT,MI,48205,3138214350,"January 20th, 2015",medical,http://weedmaps.com/dispensaries/fuego#/details
-916492223,Silver Stem Cannabis,1926 NE 40th Ave,Portland,OR,97212,5032082074,"April 6th, 2015",medical,http://weedmaps.com/dispensaries/silver-stem-cannabis#/details
-341134523,The 64 Store,502 West Colorado Ave,Colorado Springs,CO,80905,7196020640,"July 11th, 2013",medical,http://weedmaps.com/dispensaries/the-64-store#/details
-193050486,Rainier on Pine  - Recreational,3111 S. Pine St.,Tacoma,WA,98409,2533023365,"June 16th, 2011",recreational,http://weedmaps.com/dispensaries/rainier-wellness-center#/details
-265787730,Bikini Ball Collective Bogo Oz's and Qp Specials,1210 S. State College Blvd. Unit D (entrance next to Titanium Hooka Lounge),Anaheim,CA,92806,7145749730,"March 18th, 2014",medical,http://weedmaps.com/dispensaries/bikini-ball-collective-bbc#/details
-790225590,The Cure,560 El Cajon Boulevard,El Cajon,CA,92020,6193766686,"September 10th, 2015",medical,http://weedmaps.com/dispensaries/the-cure-2-5#/details
-926801223,Medical Cure Compassion - Pre ICO,7674 San Fernando rd,Burbank,CA,91352,8187479447,"June 12th, 2015",medical,http://weedmaps.com/dispensaries/mc3#/details
-276345861,MedLogic Inc. - Perris,802 NAVAJO RD SUITE J (SINGLE STORY INDIAN HILLS CENTER),Perris,CA,92570,9519437800,"November 2nd, 2010",medical,http://weedmaps.com/dispensaries/apple-valley-medical-alliance-inc#/details
-275882086,Bellflower Cannabis Garden,8846 Alondra Blvd,Bellflower,CA,90706,5623031305,"October 13th, 2015",medical,http://weedmaps.com/dispensaries/bellflower-cannabis-garden#/details
-484087190,KindPeoples,3600 Soquel Ave,Santa Cruz,CA,95062,8314718562,"January 27th, 2014",medical,http://weedmaps.com/dispensaries/kindpeoples-collective#/details
-449367181,NATURE'S CURE INC (PRE-ICO),5300 W. Century Blvd. Ste 124,Los Angeles,CA,90045,3106450173,"April 12th, 2009",medical,http://weedmaps.com/dispensaries/lax-patient-remedies-full-menu-lab-tested-only-the-best#/details
-449367181,NATURE'S CURE INC (PRE-ICO),5300 W. Century Blvd. Ste 124,Los Angeles,CA,90045,3106450173,"April 12th, 2009",medical,http://weedmaps.com/dispensaries/lax-patient-remedies-full-menu-lab-tested-only-the-best#/details
-346650419,Alpine Alternative,8112 Alpine Ave,Sacramento,CA,95826,9167396337,"January 25th, 2013",medical,http://weedmaps.com/dispensaries/alpine-alternative#/details
-888008329,Herbal Solutions,124 West Michigan Avenue,Ypsilanti,MI,48197,7344878421,"August 4th, 2011",medical,http://weedmaps.com/dispensaries/herbal-solutions-ypsi#/details
-313575311,Pacific Green \u0026 Delivery - Spanaway,19815 Mountain HWY E,Spanaway,Washington,98387,2532564223,"August 25th, 2014",medical,http://weedmaps.com/dispensaries/pacific-green-delivery-spanaway-washington#/details
-313575311,Pacific Green \u0026 Delivery - Spanaway,19815 Mountain HWY E,Spanaway,Washington,98387,2532564223,"August 25th, 2014",medical,http://weedmaps.com/dispensaries/pacific-green-delivery-spanaway-washington#/details
-656704039,Miramar Private Club,9350 Trade Place Suite E,San Diego,CA.,92126,8582296859,"October 17th, 2014",medical,http://weedmaps.com/dispensaries/miramar-patients-group-2#/details
-388854294,White Mountain Health Center,9420 W Bell Rd suite 108,Sun City,Arizona,85351,6233744141,"January 3rd, 2015",medical,http://weedmaps.com/dispensaries/white-mountain-health-center#/details
-473979091,Shatter Wholesale ,CALL/Text FOR ADDRESS,Fontana,CA,92335,7143410868,"February 20th, 2016",medical,http://weedmaps.com/dispensaries/shatter-wholesale-blowout-shatter-deals-everyday#/details
-445264078,Green Earth Farmacie,6811 WOODMAN AVE.,Van Nuys,CA,91405,8189941045,"December 10th, 2009",medical,http://weedmaps.com/dispensaries/van-nuys-91405#/details
-103699120,Breckenridge Organic Therapy - Adult Use 21+,"1900 Airport Rd, Suite A1",Breckenridge,CO,80424,9704530420,"May 26th, 2010",recreational,http://weedmaps.com/dispensaries/breckenridge-organic-therapy#/details
-641507049,THC-OPEN to 3AM,4127 S Centinela Ave,Los Angeles,CA,90066,3108719165,"March 28th, 2014",medical,http://weedmaps.com/dispensaries/thc-total-healing-center#/details
-397440893,Golden State CBD,616 East Alvarado Street 101A,Fallbrook,CA,92028,7604513000,"February 21st, 2015",medical,http://weedmaps.com/dispensaries/golden-state-cbd-2#/details
-334630744,GreenRoom on Market,4218 Market St. Suite A,San Diego,CA,92102,6193065678,"December 2nd, 2014",medical,http://weedmaps.com/dispensaries/the-green-room-4-4#/details
-109119036,Cloud 45,2631 South Otsego Ave,Gaylord,Michigan,49735,9894482029,"October 12th, 2015",medical,http://weedmaps.com/dispensaries/cloud-45#/details
-133280128,Hana Kingman,2095 East Northern Avenue,Kingman,AZ,86409,9286920000,"August 21st, 2014",medical,http://weedmaps.com/dispensaries/hana-kingman#/details
-584002019,Faragosi Farms,118 Santa Fe Trail,Trinidad,CO,81082,7198462310,"March 21st, 2015",recreational,http://weedmaps.com/dispensaries/faragosi-farms#/details
-310382212,Fox Street Wellness - 21+,4773 Fox Street,Denver,Colorado,80216,7208817460,"September 27th, 2012",medical,http://weedmaps.com/dispensaries/fox-street-wellness#/details
-713776222,Nevada Medical Marijuana ,3195 St Rose Pkwy suite 212,Henderson,NV,89052,7022984820,"October 23rd, 2015",medical,http://weedmaps.com/dispensaries/nevada-medical-marijuana#/details
-482884956,DESERT ORGANIC SOLUTIONS - Palm Springs 92258,19486 Newhall Road,North Palm Springs,CA,92258,7602884000,"April 27th, 2010",medical,http://weedmaps.com/dispensaries/desert-organic-solutions#/details
-482884956,DESERT ORGANIC SOLUTIONS - Palm Springs 92258,19486 Newhall Road,North Palm Springs,CA,92258,7602884000,"April 27th, 2010",medical,http://weedmaps.com/dispensaries/desert-organic-solutions#/details
-332290036,Lakeshore Alternatives,6155 Blue Star Highway,Saugatuck,MI,49453,2698571188,"July 12th, 2011",medical,http://weedmaps.com/dispensaries/lakeshore-alternatives#/details
-384541791,New Millennium ,136 Stewart Road,Pacific,WA,98047,2534478584,"June 12th, 2015",medical,http://weedmaps.com/dispensaries/new-millennium#/details
-695231886,Harbor Alternative Wellness,6708 144th St NW Suite A,Gig Harbor,WA,98332,2535148374,"June 10th, 2012",medical,http://weedmaps.com/dispensaries/jade-gardens#/details
-703379758,CVCC,84-891 Avenue 48,Coachella,CA,92236,7603983400,"January 21st, 2014",medical,http://weedmaps.com/dispensaries/organic-treatment-center-o-t-c#/details
-753550805,Santa Barbara Care Center ,5814 Gaviota St.,Goleta,CA,93117,8058454291,"February 25th, 2013",medical,http://weedmaps.com/dispensaries/santa-barbara-care-center#/details
-997829868,Olympic Sinsemilla,256781 Hwy 101,Port Angeles,WA,98362,3603012216,"January 14th, 2015",medical,http://weedmaps.com/dispensaries/olympic-sinsemilla#/details
-969660392,Nu Gen LB 24/7,2242 Long Beach Blvd,Long Beach,CA,90806,5624261395,"October 1st, 2015",medical,http://weedmaps.com/dispensaries/nu-gen-lb#/details
-969660392,Nu Gen LB 24/7,2242 Long Beach Blvd,Long Beach,CA,90806,5624261395,"October 1st, 2015",medical,http://weedmaps.com/dispensaries/nu-gen-lb#/details
-377436327,Phytologie Wellness,8440 Enterprise Way,Oakland,CA,94621,5104549779,"November 21st, 2013",medical,http://weedmaps.com/dispensaries/phytologie-grand-opening#/details
-766524485,The Barn,3491 East Bristol Rd.,Burton,MI,48529,8107421500,"April 18th, 2011",medical,http://weedmaps.com/dispensaries/the-barn#/details
-561541880,Higher Level of Care,"26555 Carmel Rancho Blvd., Suite #3",Carmel,CA,93923,8316201990,"September 11th, 2015",medical,http://weedmaps.com/dispensaries/higher-level-mmj#/details
-210666656,The City Wellness,1291 E. Walnut St.,Pasadena,Ca,91106,6262196586,"February 18th, 2015",medical,http://weedmaps.com/dispensaries/city-wellness#/details
-960372863,The Station,3005 28th Street,Boulder,CO,80302,3034420892,"August 8th, 2011",recreational,http://weedmaps.com/dispensaries/the-station#/details
-484818414,The Parents Remedy,1350 Lone Palm Ave,Modesto,CA,95351,2097352107,"January 28th, 2015",medical,http://weedmaps.com/dispensaries/cva-central-valley-alternative#/details
-808380000,Torrey Holistics,"10671 Roselle St, Suite #100",San Diego,CA,92121,18585581420,"February 9th, 2016",medical,http://weedmaps.com/dispensaries/torrey-holistics#/details
-423687521,LiveGreen Edgewater - Recreational,2517 Sheridan Blvd.,Edgewater,CO,80214,7209209617,"December 30th, 2013",recreational,http://weedmaps.com/dispensaries/bud-med-health-centers-patients-choice-partner#/details
-535391654,Cinder,1421 North Mullan Road,Spokane Valley,WA,99206,5092413726,"October 8th, 2014",recreational,http://weedmaps.com/dispensaries/cinder-spokane-valley#/details
-829890705,Sierra Wellness Connection,1605 East 2nd Street Suite #103,Reno,NV,89502,775.473.9994,"June 18th, 2015",medical,http://weedmaps.com/dispensaries/sierra-wellness-connection#/details
-842138657,Airfield Supply Company,1190 Coleman Avenue,San Jose,CA,95110,4083200230,"September 15th, 2015",medical,http://weedmaps.com/dispensaries/airfield-supply-company#/details
-842138657,Airfield Supply Company,1190 Coleman Avenue,San Jose,CA,95110,4083200230,"September 15th, 2015",medical,http://weedmaps.com/dispensaries/airfield-supply-company#/details
-131631467,The Kushion Provisions Center - Kushion Prov,1723 E Michigan Ave,Lansing,MI,48912,5176572932,"July 27th, 2014",medical,http://weedmaps.com/dispensaries/the-kushion-provisions-center-kushion-prov#/details
-755128046,Caliva,1695. S. 7th St,San Jose,CA,95112,4082972615,"July 13th, 2015",medical,http://weedmaps.com/dispensaries/caliva#/details
-755128046,Caliva,1695. S. 7th St,San Jose,CA,95112,4082972615,"July 13th, 2015",medical,http://weedmaps.com/dispensaries/caliva#/details
-634253331,Brothers Cannabis Club,3609 SE Division St,Portland,Oregon,97202,5038948001,"January 29th, 2013",medical,http://weedmaps.com/dispensaries/brothers-portland#/details
-972436773,Northstar Holistic Collective,1236 C Street,Sacramento,CA,95814,9164764344,"April 19th, 2013",medical,http://weedmaps.com/dispensaries/northstar-holistic-collective-2#/details
-972436773,Northstar Holistic Collective,1236 C Street,Sacramento,CA,95814,9164764344,"April 19th, 2013",medical,http://weedmaps.com/dispensaries/northstar-holistic-collective-2#/details
-381853053,Sedgwick Alternative Relief,107 Main Ave,Sedgwick,CO,80749,9704635328,"June 3rd, 2013",recreational,http://weedmaps.com/dispensaries/sedgwich-alternative-relief#/details
-119128394,LaContes Clone Bar + Dispensary - Central Medical,105 E 7th Ave,Denver,CO,80203,3032922252Press2,"June 20th, 2011",medical,http://weedmaps.com/dispensaries/lacontes-clone-bar-dispensary-central#/details
-630106196,SANTE - Durango,742 1/2 Main Ave.,Durango,CO,81301,9703752837,"November 9th, 2010",recreational,http://weedmaps.com/dispensaries/sante-alternative-wellness#/details
-332411710,1944 Ocean Cooperative - San Francisco ,1944 Ocean Avenue,San Francisco,CA,94127,4152394766,"August 25th, 2008",medical,http://weedmaps.com/dispensaries/1944-ocean-collective#/details
-444938570,Walla Walla Weedery,207 S 9th Street,Walla Walla,WA,99362,5098764279,"November 13th, 2015",recreational,http://weedmaps.com/dispensaries/walla-walla-weedery#/details
-444938570,Walla Walla Weedery,207 S 9th Street,Walla Walla,WA,99362,5098764279,"November 13th, 2015",recreational,http://weedmaps.com/dispensaries/walla-walla-weedery#/details
-469523676,Longview Freedom Market - Recreational,971 14th Ave.,Longview,Washington,98632,3607033229,"September 9th, 2014",recreational,http://weedmaps.com/dispensaries/longview-freedom-market-recreational#/details
-531594454,Leaf Life,1860 E Salk Drive Suite B1,Casa Grande,AZ,85122,5203509880,"August 6th, 2013",medical,http://weedmaps.com/dispensaries/leaf-life#/details
-583997068,Bud-Eze #3,"Call For Verification, Accepting New Patients",Victorville,CA,92392,7606512839,"March 16th, 2015",medical,http://weedmaps.com/dispensaries/bud-eze-2-5-2#/details
-596847254,Native Roots - Longmont,19 S. Sunset Street,Longmont,CO,80501,7203404870,"August 19th, 2014",medical,http://weedmaps.com/dispensaries/native-roots-longmont-medical#/details
-266891382,Natures Medicine Salida,230 West 16th Street,Salida,CO,81201,7195393207,"August 7th, 2010",recreational,http://weedmaps.com/dispensaries/natures-medicine-salida#/details
-670081652,7 Stars Holistic Healing Center,3288 Pierce St Suite M108,Richmond,Ca,94804,5105277827,"September 4th, 2012",medical,http://weedmaps.com/dispensaries/7-stars-hhc#/details
-365180638,Green Empire ,1224 S Garey Ave,Pomona,CA,91766,9098335095,"March 8th, 2016",medical,http://weedmaps.com/dispensaries/green-empire#/details
-788839219,Mandy's Med Club,335 Highway 99 South,Cottage Grove,OR,97424,5419425047,"June 10th, 2014",medical,http://weedmaps.com/dispensaries/mandy-s-med-club#/details
-484663436,Greenside Recreational - Kent,23407 Pacific Hwy South,Kent / Des Moines,WA,98198,2068786470,"October 30th, 2014",recreational,http://weedmaps.com/dispensaries/greenside-des-moines#/details
-719706862,Arizona Natural Remedies,22041 N. 23rd Ave,Phoenix,Az,85027,6235820436,"January 7th, 2016",medical,http://weedmaps.com/dispensaries/arizona-natural-remedies#/details
-719706862,Arizona Natural Remedies,22041 N. 23rd Ave,Phoenix,Az,85027,6235820436,"January 7th, 2016",medical,http://weedmaps.com/dispensaries/arizona-natural-remedies#/details
-458201736,MVP  CLUB,24490 Sunnymead Blvd #118,Moreno Valley,CA,92553,9514863600,"January 22nd, 2016",medical,http://weedmaps.com/dispensaries/the-green-mine-2#/details
-489741683,CG Corrigan,30 East Frontage Road,Placitas,New Mexico,87043,5059335599,"August 18th, 2014",medical,http://weedmaps.com/dispensaries/cg-corrigan-2#/details
-265777825,Green Man Cannabis - Recreational,7289 E. Hampden Ave,Denver,Colorado,80224,7203825950,"March 10th, 2015",recreational,http://weedmaps.com/dispensaries/green-man-cannabis-recreational-2#/details
-972574292,The Herbery I-205,212 NE 164th Ave Suite #11,Vancouver,WA,98684,3608417500,"February 15th, 2015",recreational,http://weedmaps.com/dispensaries/the-herbery#/details
-571385991,Essence Dispensary | The Strip,2307 Las Vegas Blvd S.,Las Vegas,NV,89104,7029787739,"July 1st, 2015",medical,http://weedmaps.com/dispensaries/essence-dispensary-the-strip#/details
-934834262,Green Leaf Recreational,4220 Meridian St. North,Bellingham,Washington,98226,3605262198,"August 25th, 2014",recreational,http://weedmaps.com/dispensaries/greenleaf-2#/details
-189118776,The Green Planet,10020 SW Canyon Rd,Beaverton,Oregon,97225,5032921240,"January 19th, 2015",medical,http://weedmaps.com/dispensaries/the-green-planet#/details
-285224438,Herbal Bliss,842 North Summit Blvd (Unit 13),Frisco,CO,80443,9706683514,"May 23rd, 2014",recreational,http://weedmaps.com/dispensaries/herbal-bliss#/details
-171247991,High Country Healing Eagle/Vail,40801 US HWY 6 Unit 5,Eagle-Vail,CO,81620,9704704794,"December 29th, 2015",recreational,http://weedmaps.com/dispensaries/high-country-healing-2-2-2#/details
-319033265,Garden of Eden,21227 Foothill Blvd,Hayward,California,94541,5102009555,"July 22nd, 2015",medical,http://weedmaps.com/dispensaries/garden-of-eden-3-14#/details
-775687063,Roots Rx Aspen,400 E. Hyman Unit A102,Aspen,Colorado,81611,9709009333,"August 29th, 2015",recreational,http://weedmaps.com/dispensaries/roots-rx-aspen#/details
-691351960,i and i - Newport,452 SW Bay Blvd,Newport,Oregon,97365,5412164999,"August 20th, 2015",medical,http://weedmaps.com/dispensaries/i-and-i-newport#/details
-856946439,Jenny's Dispensary,932 NE 3rd St,Bend,OR,97701,5417972120,"September 9th, 2015",medical,http://weedmaps.com/dispensaries/jenny-s-dispensary-2#/details
-579260611,Marijuana Mart,6039 197th Ave SW,Grand Mound,WA,98579,3608587188,"July 31st, 2015",recreational,http://weedmaps.com/dispensaries/marijuana-mart#/details
-727054532,Sweet Relief - Port Astordam,65 Port Way Street,Astoria,OR,97103,5037417626,"March 3rd, 2016",medical,http://weedmaps.com/dispensaries/sweet-relief-port-astordam#/details
-780056840,Green Life NW - Recreational 21+,11463 Rainier Ave South,Seattle,WA,98178,2064665388,"January 26th, 2016",medical,http://weedmaps.com/dispensaries/green-life-nw-recreational-21#/details
-397340074,Madrone Cannabis Club,481 Appplegate Way,Ashland,OR,97520,5417086480,"December 8th, 2015",medical,http://weedmaps.com/dispensaries/madrone-cannabis-club#/details
-442026091,Chula Vista Meds,1067 Broadway Suite 103,Chula Vista,California,91911,6192138491,"September 25th, 2014",medical,http://weedmaps.com/dispensaries/chula-vista-meds#/details
-319126089,CALI RELEAF,1930 PACIFIC COAST HIGHWAY,LOMITA,CA,90717,3107205926,"April 10th, 2013",medical,http://weedmaps.com/dispensaries/calireleafcaregivers#/details
-319126089,CALI RELEAF,1930 PACIFIC COAST HIGHWAY,LOMITA,CA,90717,3107205926,"April 10th, 2013",medical,http://weedmaps.com/dispensaries/calireleafcaregivers#/details
-651118425,420 XCHANGE,8851 Garden Grove Blvd.,Garden Grove,Ca,92844,7144627172,"March 30th, 2015",medical,http://weedmaps.com/dispensaries/420xchange#/details
-651118425,420 XCHANGE,8851 Garden Grove Blvd.,Garden Grove,Ca,92844,7144627172,"March 30th, 2015",medical,http://weedmaps.com/dispensaries/420xchange#/details
-450037219,APC,1671 W. Katella Ave. Suite #135,Anaheim,CA,92802,7148762709,"February 15th, 2014",medical,http://weedmaps.com/dispensaries/anaheim-patient-care#/details
-954540400,Broadways 35 Spot,4529 South Broadway,Los Angeles,California,90037,1234567,"December 27th, 2014",medical,http://weedmaps.com/dispensaries/nhc#/details
-519749287,HIGH SPOT,19459 Ventura Blvd.,Tarzana,CA,91356,7474774707,"January 2nd, 2015",medical,http://weedmaps.com/dispensaries/high-spot#/details
-171319511,Lucky Greens Collective,N/A,N/A,CA,N/A,6193451314,"August 15th, 2015",medical,http://weedmaps.com/dispensaries/cloud-9-collective#/details
-596536359,SYLMAR WELLNESS CENTER,12777 San Fernando Rd. Unit 10,Sylmar,CA,91342,2133592641,"January 30th, 2013",medical,http://weedmaps.com/dispensaries/sylmar-wellness-grand-opening#/details
-529493669,Divine Vitality,102 Brundage Lane,Bakersfield,CA,93304,6613222811,"July 31st, 2014",medical,http://weedmaps.com/dispensaries/divine-vitality-2#/details
+id,names,addresses,cities,states,zips,phones,dates,years,licences,websites
+218990048,Organic Roots,7243 University Ave,La Mesa,Californialifornia,91942,6194812281,"August 14th, 2012",2012,medical,http://weedmaps.com/dispensaries/natures-leaf-collective-2-2#/details
+967656481,Central Remedies - South LA,5712 S. Central ave,Los Angeles,Californialifornia,90011,3232319700,"August 14th, 2012",2012,medical,http://weedmaps.com/dispensaries/central-ramdies#/details
+967656481,Central Remedies - South LA,5712 S. Central ave,Los Angeles,Californialifornia,90011,3232319700,"August 14th, 2012",2012,medical,http://weedmaps.com/dispensaries/central-ramdies#/details
+220788451,Kush Kingdom,24643 Alessandro Blvd,Moreno Valley,Californialifornia,92553,9514130266,"March 12th, 2013",2013,medical,http://weedmaps.com/dispensaries/kush-kingdom-2-6#/details
+248707897,BONAFIDE COLLECTIVE - Pre ICO,7570 San Fernando Rd.,Burbank,Californialifornia,91352,8183949353,"March 12th, 2013",2013,medical,http://weedmaps.com/dispensaries/bonafide-group-collective#/details
+912550677,420 Tailor Shop,1241 Third Ave,Chula Vista,California,91911,6193614656,"May 10th, 2015",2015,medical,http://weedmaps.com/dispensaries/420-tailor-shop#/details
+521875939,VIP MEDS,9612 Dale ave,Spring Valley,Californialifornia,91977,6194199698,"January 12th, 2013",2013,medical,http://weedmaps.com/dispensaries/spring-valley-storefront#/details
+820011554,LA MART ,6001 S Broadway St,Los Angles,Californialifornia,90003,3239206748,"September 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/la-mart#/details
+820011554,LA MART ,6001 S Broadway St,Los Angles,Californialifornia,90003,3239206748,"June 2nd, 2014",2014,medical,http://weedmaps.com/dispensaries/la-mart#/details
+161749894,GreenLeaf Collective,1560 South Long Beach Blvd,Compton,Californialifornia,90221,3107103099,"May 4th, 2015",2015,medical,http://weedmaps.com/dispensaries/greenleaf-collective-2#/details
+779432891,The House of OG's,4406 40th Street,San Diego,Californialifornia,92116,6194319255,"May 4th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-house-of-og-s#/details
+976089038,OSH,14064 Foothill Blvd,Sylmar,Californialifornia,91342,8184543976,"November 4th, 2015",2015,medical,http://weedmaps.com/dispensaries/one-stop-healers#/details
+734950782,TOKE CENTRAL ,9221 South Central Ave,Los Angeles,Californialifornia,90002,3233135380,"October 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/hope-central#/details
+734950782,TOKE CENTRAL ,9221 South Central Ave,Los Angeles,Californialifornia,90002,3233135380,"April 10th, 2013",2013,medical,http://weedmaps.com/dispensaries/hope-central#/details
+787368859,New Age Compassion Care Center,1719 Pacific Coast Highway,Lomita,Californialifornia,90717,3102570011,"November 11th, 2014",2014,medical,http://weedmaps.com/dispensaries/new-age-compassion-care#/details
+519120862,Tender Green's Patient Group,655 W 7th St,San Pedro,Californialifornia,90731,5622069347,"November 11th, 2014",2014,medical,http://weedmaps.com/dispensaries/south-bays-finest#/details
+861037255,CCC Pre-ICO,13432 Sherman Way,North Hollywood,Californialifornia,91605,8188211171,"December 11th, 2013",2013,medical,http://weedmaps.com/dispensaries/ccc-3#/details
+972254155,420 Manchester,420 E Manchester,Inglewood,Californialifornia,90301,3105903192,"March 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/420-manchester#/details
+764218664,East LA Caregivers ,5910 Whittier Blvd,Los Angeles,Californialifornia,90022,3234797833,"April 8th, 2015",2015,medical,http://weedmaps.com/dispensaries/east-la-caregivers-2#/details
+767292015,Cured Cooperative,7826 N Market St. Suite E,Spokane,Washington,99217,5098082800,"May 24th, 2015",2015,medical,http://weedmaps.com/dispensaries/cured#/details
+767292015,Cured Cooperative,7826 N Market St. Suite E,Spokane,Washington,99217,5098082800,"July 2nd, 2015",2015,medical,http://weedmaps.com/dispensaries/cured#/details
+375218882,TIN Collective,4502 S Union Ave,Tacoma,Washington,98409,2534261289,"May 3rd, 2013",2013,medical,http://weedmaps.com/dispensaries/tin-collective#/details
+166153444,Michigan Wellness Group ,16900 W.Warren,Detroit,Michigan,48228,313436.1912,"May 3rd, 2013",2013,medical,http://weedmaps.com/dispensaries/michigan-wellness-group#/details
+166153444,Michigan Wellness Group ,16900 W.Warren,Detroit,Michigan,48228,313436.1912,"August 28th, 2013",2013,medical,http://weedmaps.com/dispensaries/michigan-wellness-group#/details
+216353359,Green Orchard,333A E. First St.,Port Angeles,Washington,98362,3607971969,"April 7th, 2011",2011,medical,http://weedmaps.com/dispensaries/green-orchard#/details
+484165572,Mr. Greens,910 West PACIFIC COAST HWY,Wilmington,Californialifornia,90744,8184060255,"April 7th, 2011",2011,medical,http://weedmaps.com/dispensaries/greenmart-the-superstore#/details
+484165572,Mr. Greens,910 West PACIFIC COAST HWY,Wilmington,Californialifornia,90744,8184060255,"November 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/greenmart-the-superstore#/details
+619829063,Herbal Wellness Center - Phoenix,4126 W Indian School Rd,Phoenix,Arizona,85019,6026353502,"May 3rd, 2013",2013,medical,http://weedmaps.com/dispensaries/herbal-wellness-center#/details
+778824709,UNITED MEDICAL ALLIANCE,18446 Hart St. Unit M2,Reseda,Californialifornia,91335,8187467313,"May 3rd, 2013",2013,medical,http://weedmaps.com/dispensaries/bmc-2#/details
+255536494,Cannabicare,1466 Woolsey Heights,Colorado Springs,Colorado,80915,7195732262,"August 30th, 2013",2013,medical,http://weedmaps.com/dispensaries/cannabicare#/details
+195655351,Strange Therapy Solutions,2781 West Ramsey Suite 7,Banning,California,92543,8774208886,"July 12th, 2012",2012,medical,http://weedmaps.com/dispensaries/strange-therapy-solutions#/details
+844520110,Hemphill Wellness Center,3365 Associates Drive,Burton,Michigan,48529,8108203812,"May 13th, 2010",2010,medical,http://weedmaps.com/dispensaries/hemphill-wellness-center#/details
+751705521,Ultra Collective,7558 Trade Street,San Diego,Californialifornia,92121,7607081375,"January 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/ultra-collective-2-2#/details
+771448587,ShowGrow Santa Ana,1625 E St. Gertrude Place,Santa Ana,Californialifornia,92705,949565GROW,"January 27th, 2012",2012,medical,http://weedmaps.com/dispensaries/showgrow-santa-ana#/details
+168981790,VHC Pre-ICO,11300 TUXFORD ST,SUN VALLEY,Californialifornia,91352,8183706677,"March 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/vhc-valley-herbal-center-sun-valley-91352#/details
+561665757,Helping Hand Holistic Center,20245 Van Dyke Ave.,Detroit,Michigan,48234,313.733.6693,"December 18th, 2015",2015,medical,http://weedmaps.com/dispensaries/helpinghandholisticcenter#/details
+561665757,Helping Hand Holistic Center,20245 Van Dyke Ave.,Detroit,Michigan,48234,313.733.6693,"June 25th, 2011",2011,medical,http://weedmaps.com/dispensaries/helpinghandholisticcenter#/details
+639525396,CannaCure,"50 Ecorse Road, Suite B",Ypsilanti,Michigan,48198,7344841990,"March 19th, 2011",2011,medical,http://weedmaps.com/dispensaries/cannacure#/details
+690974592,V \u0026 G COLLECTIVE,2309 Chester Avenue,Bakersfield,Californialifornia,93301,6613279000,"March 19th, 2011",2011,medical,http://weedmaps.com/dispensaries/v-g-collective#/details
+610257762,Herbal Legends Cannabis - Medical + Recreational 21+ ,2118 James Street,Bellingham,Washington,98225,360.778.3904,"May 5th, 2012",2012,recreational,http://weedmaps.com/dispensaries/healthy-living-cooperative#/details
+838866955,TOP SHELF 30 CAP COLLECTIVE ,6024 Tyler St,Riverside,Californialifornia,92503,9095337835,"August 2nd, 2010",2010,medical,http://weedmaps.com/dispensaries/r-c-p-a#/details
+468075133,Dank City,5233 Tyler ave,Temple city,Californialifornia,91780,6264766482,"September 7th, 2011",2011,medical,http://weedmaps.com/dispensaries/temple-greens#/details
+494379557,SunGrow - Palm Springs,17003 Palm Dr,Desert Hot Springs,Californialifornia,92240,7603295000,"April 7th, 2015",2015,medical,http://weedmaps.com/dispensaries/sungrow#/details
+741738982,Glendale Greenhouse ,8160 W. Union Hills Dr.,Glendale,Arizona,85308,6233851310,"June 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/glendale-greenhouse#/details
+380891366,MJINC,1092 N E. Street,San Bernardino,Californialifornia,92410,9095217499,"February 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/mjinc-san-bernardino#/details
+753808995,LAXCC  PRE-ICO,8332 Lincoln Blvd.,Los Angeles,Californialifornia,90045,13104399189,"February 12th, 2015",2015,medical,http://weedmaps.com/dispensaries/premium-pacific#/details
+753808995,LAXCC  PRE-ICO,8332 Lincoln Blvd.,Los Angeles,Californialifornia,90045,13104399189,"August 31st, 2012",2012,medical,http://weedmaps.com/dispensaries/premium-pacific#/details
+790718971,Green Pharm ,7455 Gratiot Ave next to Boost Mobile,Detroit,Michigan,48213,3133320717,"March 2nd, 2013",2013,medical,http://weedmaps.com/dispensaries/green-pharm-clinic#/details
+688640422,Wilshire Wellness-Anaheim,"292 N. Wilshire Ave., UNIT A",Anaheim,California,92801,7145619869,"March 2nd, 2013",2013,medical,http://weedmaps.com/dispensaries/wilshire-wellness#/details
+819187835,A NEW SPIRIT - Perris,620 Indian Hills Circle (Unit D first floor NEW SPIRIT),Perris,Californialifornia,92570,9519400904,"March 22nd, 2014",2014,medical,http://weedmaps.com/dispensaries/t-h-c-perris#/details
+669396787,BEACH Center - South Bay,1115 West 190th St.,Torrance,Californialifornia,90248,3108214420,"February 10th, 2016",2016,medical,http://weedmaps.com/dispensaries/beach-center#/details
+669396787,BEACH Center - South Bay,1115 West 190th St.,Torrance,Californialifornia,90248,3108214420,"September 19th, 2013",2013,medical,http://weedmaps.com/dispensaries/beach-center#/details
+718612704,Maggies Farm Pueblo East - Adult Use,1400 Santa Fe Dr.,Pueblo,Colorado,81006,7195821925,"December 4th, 2012",2012,recreational,http://weedmaps.com/dispensaries/maggies-farm-pueblo-east#/details
+787696576,Green Acres,3912 Portola Dr. Ste. 1,Santa Cruz,Californialifornia,95062,8314758420,"December 4th, 2012",2012,medical,http://weedmaps.com/dispensaries/green-acres#/details
+847557484,GREENWOLF LA Pre ICO,"2950 Los Feliz, Unit 100 (Free Parking in rear, entrance on Revere Ave. )",Los Angeles,Californialifornia,90039,3236689390,"November 14th, 2014",2014,medical,http://weedmaps.com/dispensaries/greenwolf-la#/details
+847557484,GREENWOLF LA Pre ICO,"2950 Los Feliz, Unit 100 (Free Parking in rear, entrance on Revere Ave. )",Los Angeles,Californialifornia,90039,3236689390,"June 27th, 2011",2011,medical,http://weedmaps.com/dispensaries/greenwolf-la#/details
+373431267,SWC Tempe State Licensed Dispensary ,2009 East 5th St Suite 11,Tempe,Arizona,85281,4802456751,"May 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/swc-tempe-state-licensed-dispensary#/details
+241181260,Green Gardens,6102 Etiwanda Ave,Jurupa Valley,California,91752,9093808303,"May 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-gardens-2#/details
+118377823,The WEED - Wellness Earth Energy Dispensary,11557 Ventura Blvd.,Studio City,Californialifornia,91604,8189802266,"July 3rd, 2013",2013,medical,http://weedmaps.com/dispensaries/concentrate-leader#/details
+431856243,Pure West,840 N. Black River Dr. Suite #80,Holland,Michigan,49424,6164664204,"January 29th, 2016",2016,medical,http://weedmaps.com/dispensaries/pure-west#/details
+279001824,S\u0026B Holistic Center,20477 Schaefer Hwy,Detroit,Michigan,48235,3133402253,"June 1st, 2012",2012,medical,http://weedmaps.com/dispensaries/shakeandbake#/details
+298152814,Next Level Caregivers,31251 Highway 74,Homeland,Californialifornia,92548,9519260261Delivery:9512307367,"March 11th, 2011",2011,medical,http://weedmaps.com/dispensaries/next-level-caregivers-homeland#/details
+298152814,Next Level Caregivers,31251 Highway 74,Homeland,Californialifornia,92548,9519260261Delivery:9512307367,"April 19th, 2012",2012,medical,http://weedmaps.com/dispensaries/next-level-caregivers-homeland#/details
+341877529,MR NICE GUY,1126 S. Los Angeles St. Unit B,LOS ANGELES,Californialifornia,90015,2132734543,"January 7th, 2011",2011,medical,http://weedmaps.com/dispensaries/mr-nice-guy-collective#/details
+363505810,Happy Leaf,1301 NE Broadway,Portland,Oregon,97232,9718000420,"January 7th, 2011",2011,medical,http://weedmaps.com/dispensaries/happy-leaf#/details
+324595789,W main WC,905 W Main Street Suite F,El Cajon,Californialifornia,92020,6193069538,"May 20th, 2011",2011,medical,http://weedmaps.com/dispensaries/greenfield-flowers#/details
+469441859,Limitless Care Collective,1737 Garnet Ave,Pacific Beach,Californialifornia,92109,6193018903,"January 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/limitless-care-collective#/details
+937508609,Venice Beach Care Center ,410 Lincoln Blvd,Venice,Californialifornia,90291,3103994307,"September 24th, 2014",2014,medical,http://weedmaps.com/dispensaries/venice-beach-care-center#/details
+254256840,The High Church - Temecula,47991 Rainbow Canyon Rd.,Temecula,Californialifornia,92592,7604681658,"May 19th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-high-church#/details
+254256840,The High Church - Temecula,47991 Rainbow Canyon Rd.,Temecula,Californialifornia,92592,7604681658,"February 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/the-high-church#/details
+906594650,ECC Ease Compassion Collective,2435 E. Orangethorpe Ave.,Fullerton,Californialifornia,92831,7143097772,"January 21st, 2016",2016,medical,http://weedmaps.com/dispensaries/e-c-c-ease-compassion-collective#/details
+906594650,ECC Ease Compassion Collective,2435 E. Orangethorpe Ave.,Fullerton,Californialifornia,92831,7143097772,"January 21st, 2016",2016,medical,http://weedmaps.com/dispensaries/e-c-c-ease-compassion-collective#/details
+551035639,Mr. Naturals 35 Cap,521 S. ALVARADO ST (EL POLLO LOCO LOT),LA,Californialifornia,90057,2132568312,"May 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/mr-naturals#/details
+551035639,Mr. Naturals 35 Cap,521 S. ALVARADO ST (EL POLLO LOCO LOT),LA,Californialifornia,90057,2132568312,"May 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/mr-naturals#/details
+344940858,Green Nectar - (Mankind Coop),7128 Miramar Rd. Suite 10 (UPSTAIRS),San Diego,Californialifornia,92121,8582222527,"January 28th, 2015",2015,medical,http://weedmaps.com/dispensaries/green-nectar-all-8ths-are-4-0-gs-2#/details
+406217999,Natural Herbal Pain Relief N.H.P.R ,2121 S. 10th Street,San Jose,Californialifornia,95112,408BUDWEED2839333,"January 28th, 2015",2015,medical,http://weedmaps.com/dispensaries/natural-herbal-pain-relief#/details
+538970633,Desert Bloom Re-Leaf Center,8060 E 22nd St Suite 108,Tucson,Arizona,85710,5208861760,"May 9th, 2012",2012,medical,http://weedmaps.com/dispensaries/desert-bloom-re-leaf-center#/details
+538970633,Desert Bloom Re-Leaf Center,8060 E 22nd St Suite 108,Tucson,Arizona,85710,5208861760,"December 26th, 2009",2009,medical,http://weedmaps.com/dispensaries/desert-bloom-re-leaf-center#/details
+671786787,Mercy Wellness of Cotati,7950 Redwood Dr. Suite 9,Cotati,Californialifornia,94931,7077951600,"June 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/mercy-wellness#/details
+708351827,Triple C Cannabis Club,2706 6th Ave,North Tacoma,Washington,98406,2535074725,"June 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/cannabisclubcollective#/details
+438366567,THC - The Healing Center ,1400 Needles Hwy. Unit 100,Needles,Californialifornia,92363,7604472663,"July 3rd, 2010",2010,medical,http://weedmaps.com/dispensaries/thc-the-healing-center-needles-walk-in#/details
+136018016,Magnolia Wellness,161 Adeline Street (Right behind Nellie's Soulfood Restaurant),Oakland,Californialifornia,94607,510.333.6460,"February 15th, 2011",2011,medical,http://weedmaps.com/dispensaries/magnolia-wellness-2#/details
+525207879,Upland's Finest Collective ,1816 W Foothill Blvd,Upland,Californialifornia,91786,9097670412,"November 26th, 2013",2013,medical,http://weedmaps.com/dispensaries/upland-s-finest-collective#/details
+122563175,DC Collective,8053 Deering Ave.,Canoga Park,Californialifornia,91304,8188870980,"August 1st, 2013",2013,medical,http://weedmaps.com/dispensaries/dc-collective#/details
+932159285,Acme Silver Place,1261 S Hacienda Blvd (right before 60 W Fwy on-ramp),Hacienda Heights,Californialifornia,91745,6263303121,"February 11th, 2016",2016,medical,http://weedmaps.com/dispensaries/the-clinic-walk-ins-welcome#/details
+175253102,Organica Patient Group,856 S Hwy 89,Chino Valley,Arizona,86323,9286365566,"February 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/organica-patient-group#/details
+175253102,Organica Patient Group,856 S Hwy 89,Chino Valley,Arizona,86323,9286365566,"February 1st, 2013",2013,medical,http://weedmaps.com/dispensaries/organica-patient-group#/details
+640193561,Silver State Relief,175 E. Greg St,Sparks,Nevada,89431,7754407777,"May 22nd, 2013",2013,medical,http://weedmaps.com/dispensaries/silver-state-relief#/details
+889593398,AHHSWEHO (Alternative Herbal Health Services),7828 Santa Monica Blvd.,West Hollywood,Californialifornia,90046,3236548792,"May 22nd, 2013",2013,medical,http://weedmaps.com/dispensaries/alternative-herbal-health-services#/details
+197335279,Prime Greens,4205 Market Street,San Diego,Californialifornia,92102,6193800185,"January 27th, 2015",2015,medical,http://weedmaps.com/dispensaries/markert-street#/details
+814668606,Purple Star MD,2520 Mission street,San Francisco,Californialifornia,94110,4155501515,"March 13th, 2014",2014,medical,http://weedmaps.com/dispensaries/purple-star-md#/details
+814668606,Purple Star MD,2520 Mission street,San Francisco,Californialifornia,94110,4155501515,"November 23rd, 2013",2013,medical,http://weedmaps.com/dispensaries/purple-star-md#/details
+951074969,99 High Tide ,22775 Pacific Coast Highway,Malibu,Californialifornia,90265,3104569930,"April 5th, 2013",2013,medical,http://weedmaps.com/dispensaries/99-high-tide-collective#/details
+695605043,Sunrise Wellness Center,1069 South Santa Fe (between the Boats and RVs),Vista,Californialifornia,92083,7605094402,"April 5th, 2013",2013,medical,http://weedmaps.com/dispensaries/sunrise-wellness-center-2#/details
+683598472,Sugar Shack,2530 South Santa Fe,Vista,Californialifornia,92084,7605363391,"March 30th, 2015",2015,medical,http://weedmaps.com/dispensaries/sugar-shack#/details
+284068831,Blue Stone Group ,18925 Grand Avenue,Lake Elsinore,Californialifornia,92530,9516787262,"February 3rd, 2015",2015,medical,http://weedmaps.com/dispensaries/blue-stone-group#/details
+284068831,Blue Stone Group ,18925 Grand Avenue,Lake Elsinore,Californialifornia,92530,9516787262,"December 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/blue-stone-group#/details
+170276002,Pure Options,6030 South Pennsylvania Ave. #8,Lansing,Michigan,48911,5177211439,"September 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/pure-options#/details
+170276002,Pure Options,6030 South Pennsylvania Ave. #8,Lansing,Michigan,48911,5177211439,"September 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/pure-options#/details
+562402367,Venice Medical Center - VMC-OPEN NOW,8940 National Blvd UNIT B,Los Angeles,Californialifornia,90034,4246034448,"June 11th, 2014",2014,medical,http://weedmaps.com/dispensaries/venice-medical-center#/details
+361204515,ORGANIX - Adult Use,1795 Airport Rd Unit A2,Breckenridge,Colorado,80424,9704531340,"June 11th, 2014",2014,recreational,http://weedmaps.com/dispensaries/organix-adult-use#/details
+794893139,The Clinic Colorado - Medical,3888 E Mexico Ave. #110,Denver,Colorado,80210,3037589114,"July 16th, 2011",2011,medical,http://weedmaps.com/dispensaries/the-clinic-colorado-denver#/details
+477397194,Community First Collective - Corona ,13490 Magnolia Ave,Corona,ca,92879,9099635816,"January 7th, 2014",2014,medical,http://weedmaps.com/dispensaries/community-first-collective-corona#/details
+462284322,Fresh Baked Dispensary Boulder - Adult Use,2539 Pearl Street,Boulder,Colorado,80302,303.440.9393,"November 11th, 2009",2009,recreational,http://weedmaps.com/dispensaries/boulder-fresh-baked-dispensary#/details
+462284322,Fresh Baked Dispensary Boulder - Adult Use,2539 Pearl Street,Boulder,Colorado,80302,303.440.9393,"January 29th, 2016",2016,recreational,http://weedmaps.com/dispensaries/boulder-fresh-baked-dispensary#/details
+193344064,"The Kind Center, Inc. ",7832 Balboa Blvd.,Van Nuys,Californialifornia,91406,8186164335,"February 20th, 2010",2010,medical,http://weedmaps.com/dispensaries/the-kind-center-inc#/details
+452282162,The Clinic Highlands - Medical,3460 W. 32nd Ave,Denver,Colorado,80211,3039977130,"February 20th, 2010",2010,medical,http://weedmaps.com/dispensaries/the-clinic-highlands#/details
+452282162,The Clinic Highlands - Medical,3460 W. 32nd Ave,Denver,Colorado,80211,3039977130,"October 22nd, 2013",2013,medical,http://weedmaps.com/dispensaries/the-clinic-highlands#/details
+499940621,ONAC of East Bay,2615 Oliver Drive,Hayward,Californialifornia,94545,5103639169,"June 3rd, 2011",2011,medical,http://weedmaps.com/dispensaries/onac-of-east-bay#/details
+488597322,Long Beach Fire House,1845 E. Pacific Coast Hwy,Long Beach,Californialifornia,90806,5625331397,"June 3rd, 2011",2011,medical,http://weedmaps.com/dispensaries/long-beach-daily-deals#/details
+624737100,ANIMAS HERBAL RECREATIONAL,1111 CAMINO DEL RIO ste 5,DURANGO,Colorado,81301,9703858622,"August 27th, 2015",2015,recreational,http://weedmaps.com/dispensaries/animas-herbal-wellness-center#/details
+273190222,Huntington Beach Healing Center,17875 Beach Blvd,Huntington Beach,Californialifornia,92647,7143758918,"January 12th, 2016",2016,medical,http://weedmaps.com/dispensaries/huntington-beach-healing-center#/details
+641183377,The Holistic Center - Modesto,4819 Yosemite Blvd,Empire,Californialifornia,95319,2095501615,"October 28th, 2010",2010,medical,http://weedmaps.com/dispensaries/the-holistic-center-modesto#/details
+687828586,1 Stop GG,14136 Brookhurst Street,Garden Grove,Californialifornia,92843,7145897444,"October 27th, 2015",2015,medical,http://weedmaps.com/dispensaries/onestopoc-2-5#/details
+687828586,1 Stop GG,14136 Brookhurst Street,Garden Grove,Californialifornia,92843,7145897444,"June 5th, 2015",2015,medical,http://weedmaps.com/dispensaries/onestopoc-2-5#/details
+417328408,Green Remedy,2928 Unit C Hilltop Mall Rd,Richmond,Californialifornia,94806,5107587898,"July 18th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-remedy#/details
+851029311,Organic Greens Collective,298 Orange Ave Suite B,Goleta,Californialifornia,93117,805.770.0580,"July 18th, 2014",2014,medical,http://weedmaps.com/dispensaries/organic-greens-collective#/details
+490818388, Pacific Green \u0026 Delivery - Puyallup ,6223 112th St E,Puyallup,Washington,98373,2532564223,"January 21st, 2012",2012,medical,http://weedmaps.com/dispensaries/pacific-green-puyallup#/details
+490818388, Pacific Green \u0026 Delivery - Puyallup ,6223 112th St E,Puyallup,Washington,98373,2532564223,"May 26th, 2015",2015,medical,http://weedmaps.com/dispensaries/pacific-green-puyallup#/details
+899658414,Trinidad's HIgher Calling U,1000 Independence Road,Trinidad,Colorado,81082,7198460420,"April 14th, 2014",2014,recreational,http://weedmaps.com/dispensaries/trinidads-higher-calling-u#/details
+564508367,The Clinic on Wadsworth - Medical,3600 S. Wadsworth Blvd,Lakewood,Colorado,80235,3034848853,"April 14th, 2014",2014,medical,http://weedmaps.com/dispensaries/the-clinic-on-wadsworth#/details
+267041464,Nu Remedy Health Care,1470 E Walnut,Pasadena,California,91106,6266397422,"October 8th, 2014",2014,medical,http://weedmaps.com/dispensaries/city-wellness-2#/details
+980460212,Native Roots Downtown,1555 Champa St,Denver,Colorado,80202,3036231900,"January 17th, 2011",2011,medical,http://weedmaps.com/dispensaries/native-roots-apothecary#/details
+629027295,11th St. Well-Health,7650 W. 11th St.,Tracy,Californialifornia,95304,2092817130,"February 18th, 2015",2015,medical,http://weedmaps.com/dispensaries/11th-st-well-health#/details
+396254097,Native Roots Frisco,861 North Summit Blvd,Frisco,Colorado,80443,9703686024,"March 18th, 2010",2010,medical,http://weedmaps.com/dispensaries/native-roots-summit-medical-frisco-silverthorne#/details
+765017016,NevadaPURE\u2122,4380 Boulder Hwy,Las Vegas,Nevada,89121,7024444824,"December 7th, 2015",2015,medical,http://weedmaps.com/dispensaries/nevadapure#/details
+948771033,Chubby's Med House,5505 Moreno st  Suite 105,Montclair,Californialifornia,91763   2 OZ FOR $250,9099933906,"December 7th, 2014",2014,medical,http://weedmaps.com/dispensaries/chubby-s-med-house#/details
+783448329,Strawberry Fields - Medical,3404 West Colorado Avenue,Colorado Springs,Colorado,80904,7194712837,"November 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/strawberryfields#/details
+783448329,Strawberry Fields - Medical,3404 West Colorado Avenue,Colorado Springs,Colorado,80904,7194712837,"December 10th, 2015",2015,medical,http://weedmaps.com/dispensaries/strawberryfields#/details
+392510016,Organic Alternatives,346 E Mountain Avenue,Fort Collins,Colorado,80524,9704827100,"August 24th, 2010",2010,recreational,http://weedmaps.com/dispensaries/organic-alternatives#/details
+396225674,Elemental Wellness,985 Timothy Drive,San Jose,Californialifornia,95133,4084333344,"August 24th, 2010",2010,medical,http://weedmaps.com/dispensaries/elementalwellness#/details
+440496244,Monterey Bay Alternative Medicine,800 Portola Drive,Del Rey Oaks,Californialifornia,93940,8313932500,"February 13th, 2010",2010,medical,http://weedmaps.com/dispensaries/monterey-bay-alternative-medicine#/details
+972630830,MiNDFUL,1017 N 2nd Street,Berthoud,Colorado,80513,9706446550,"May 9th, 2010",2010,medical,http://weedmaps.com/dispensaries/mindful#/details
+749716032,SCCC,135 Main Ave,Sacramento,Californialifornia,95838,9162543287,"March 2nd, 2015",2015,medical,http://weedmaps.com/dispensaries/true-compassion-cooperative#/details
+988142394,Green Mammoth,94 Laurel Mt. Rd. Suite 420,Mammoth Lakes,Californialifornia,93546,7609345400,"December 30th, 2009",2009,medical,http://weedmaps.com/dispensaries/green-mammoth#/details
+165216991,Nevada Medical Marijuana ,1975 S. Casino Dr.,Laughlin,Nevada,89029,7022984810,"November 30th, 2011",2011,medical,http://weedmaps.com/dispensaries/nevada-medical-marijuana-2#/details
+800915066,The Healing Center of Olympia,316 Capitol Way N,Olympia,Washington,98501,3605150258,"March 22nd, 2013",2013,medical,http://weedmaps.com/dispensaries/the-healing-center-2-2#/details
+481233639,Rocky Mountain Remedies - Recreational,2730 Downhill Plaza #106,Steamboat Springs,Colorado,80487,9708712768,"December 4th, 2015",2015,recreational,http://weedmaps.com/dispensaries/rocky-mountain-remedies-adult-use#/details
+745133246,Terrapin Care Station - 33rd Ave. - Adult Use,11900 East 33rd Ave.,Aurora,Colorado,80010,3039548402,"April 19th, 2011",2011,recreational,http://weedmaps.com/dispensaries/terrapin-care-station-aurora-33rd-ave-recreational-adult-use#/details
+736348871,Sweet Relief - Astoria,1444 Commercial St.,Astoria,Oregon,97103,5034680881,"January 8th, 2014",2014,medical,http://weedmaps.com/dispensaries/sweet-relief-natural-medicine#/details
+998081648,ShowGrow Ramona,736 Montecito Way,Ramona,Californialifornia,92065,7606879700,"October 13th, 2014",2014,medical,http://weedmaps.com/dispensaries/showgrow-ramona#/details
+126055142,Tahoe Wellness Cooperative,3445 Lake Tahoe Blvd.,South Lake Tahoe,Californialifornia,96150,5305448000,"May 12th, 2014",2014,medical,http://weedmaps.com/dispensaries/tahoewellnesscooperative#/details
+981367451,Cookies SF,5234 Mission St.,San Francisco,Californialifornia,94112,4157695001,"February 24th, 2016",2016,medical,http://weedmaps.com/dispensaries/cookies-sf#/details
+981367451,Cookies SF,5234 Mission St.,San Francisco,Californialifornia,94112,4157695001,"April 6th, 2010",2010,medical,http://weedmaps.com/dispensaries/cookies-sf#/details
+490067962,The Green Stop,130 Maine St,Log Lane Village,Colorado,80705,970867STOP7867,"August 2nd, 2013",2013,recreational,http://weedmaps.com/dispensaries/the-green-stop#/details
+136413250,AllWell Natural Health,845 S. Otsego Ave.,Gaylord,Michigan,49735,9894482657,"August 2nd, 2013",2013,medical,http://weedmaps.com/dispensaries/allwell-natural-health#/details
+232611200,Native Roots Vail/Beaver Creek,41290 Hwy 6 Bldg. 5,Avon,Colorado,81620,9704704079,"December 3rd, 2014",2014,medical,http://weedmaps.com/dispensaries/native-roots-vail-2#/details
+121739606,Stone Age Farmacy,8621 SW Canyon Dr,Portland,Oregon,97225,5032068785,"July 8th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-stone-age-pharmacy-pdx#/details
+129339909,Harvest Collective,54200 NORTH CIRCLE DR.suite C1.,Idyllwild,Californialifornia,92549,"9516636487Alsodeliversinidyllwild,Anza,pinecove,ajuanga40$min,5$deliveryfeeifunder100$donation","September 4th, 2014",2014,medical,http://weedmaps.com/dispensaries/harvest-collective-2-2-2#/details
+642503170,Puddletown Organics,"8201 SE Powell Blvd, Suite F",Portland,Oregon,97266,5035586321,"February 20th, 2015",2015,medical,http://weedmaps.com/dispensaries/puddletown-organics-2-2#/details
+424618954,Green City Collective - Recreational,13601 Highway 99 Suite B,Everett,Wa,98204,4252458706,"October 10th, 2015",2015,recreational,http://weedmaps.com/dispensaries/green-city-collective-3#/details
+803037663,Greenthumb Silverdale,2839 NW Kitsap Place #A,Silverdale,Wa,98383,3606980353,"October 20th, 2015",2015,medical,http://weedmaps.com/dispensaries/tacoma-greenthumb-silverdale#/details
+398550220,LaContes Clone Bar + Dispensary Medical,5194 Washington St,Denver,Colorado,80216,3032922252,"January 10th, 2015",2015,medical,http://weedmaps.com/dispensaries/lacontescbd#/details
+824646535,Headquarters Cannabis Company Longmont - Recreational,4497 Ute Highway,Longmont,Colorado,80503,3038235143,"November 9th, 2011",2011,recreational,http://weedmaps.com/dispensaries/headquarters-cannabis-company-recreational-longmont#/details
+153010358,Mountain Medicinals Retail Center - Recreational,2313 Colorado Blvd,Idaho Springs,Colorado,80452,3035670420,"November 20th, 2010",2010,recreational,http://weedmaps.com/dispensaries/mountain-medicinals-wellness-center-recreational#/details
+412232081,Freedom Market - Recreational,820 Westside Highway,Kelso,Washington,98626,3606360420,"December 4th, 2014",2014,recreational,http://weedmaps.com/dispensaries/freedom-market-recreational#/details
+401451608,C.Efforts,2831 Fruitridge Rd Suite E,Sacramento,Californialifornia,95820,9164751857,"February 3rd, 2014",2014,medical,http://weedmaps.com/dispensaries/collective-efforts-grand-open#/details
+571507776,CG Corrigan - Gulton,6614 Gulton Court NE,Albuquerque,New Mexico,87109,5059335599,"July 8th, 2014",2014,medical,http://weedmaps.com/dispensaries/cg-corrigan-gulton-2#/details
+633489678,Natural Mystic Wellness Center,204 E Main St./ PO Box 1881,Buena Vista,Colorado,81211,719.395.6226,"January 22nd, 2014",2014,medical,http://weedmaps.com/dispensaries/natural-mystic-wellness-center#/details
+351044032,Native Roots Aspen,308 S. Hunter Street,Aspen,Colorado,81611,9704294443,"July 6th, 2015",2015,recreational,http://weedmaps.com/dispensaries/native-roots-aspen#/details
+110481385,Native Roots Littleton,7870 W. Quincy Ave,Denver,Colorado,80123,303933HERB4372,"March 3rd, 2011",2011,medical,http://weedmaps.com/dispensaries/native-roots-littleton#/details
+552934598,The Clinic,678 N Wilson Way 1,Stockton,Californialifornia,95205,2099370193,"January 16th, 2015",2015,medical,http://weedmaps.com/dispensaries/stockton-patient-clinic#/details
+180680937,Sahara Wellness - Las Vegas,420 E Sahara Avenue,Las Vegas,Nevada,89104,7024785533,"August 19th, 2015",2015,medical,http://weedmaps.com/dispensaries/sahara-wellness#/details
+306792425,Sunflower Meds Mesa,5205 E University Dr,Mesa,Arizona,85205,4805005054,"August 20th, 2015",2015,medical,http://weedmaps.com/dispensaries/sunflower-meds-mesa#/details
+275628785,The Clinic on Colfax - Recreational,4625 E. Colfax Ave,Denver,Colorado,80220,3033333644,"August 31st, 2015",2015,recreational,http://weedmaps.com/dispensaries/the-clinic-on-colfax-recreational#/details
+219734472,Apothekare,5125 Convoy Street Unit #211,San Diego,Californialifornia,92111,8588361303,"December 17th, 2015",2015,medical,http://weedmaps.com/dispensaries/apothekare#/details
+826889132,The Church of the Everlasting Green,40 Tennessee st,Vallejo,Californialifornia,94590,7079807937,"June 18th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-dispensary-2-2#/details
+190656679,Kure Wellness,800 Lake Mendocino,Ukiah,Californialifornia,95482,7076215390,"February 26th, 2016",2016,medical,http://weedmaps.com/dispensaries/kure-wellness-2#/details
+215904592,SkunkRx,8979 Rogue River Hwy,Rogue River,Oregon,97527,5412990599,"October 21st, 2015",2015,medical,http://weedmaps.com/dispensaries/skunkrx#/details
+766448433,NETA - Northampton,118 Conz St.,Northampton,MA,01060,4137278415,"April 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/new-england-treatment-access#/details
+321821160,GreenHead Cannabis,"2815 St. Johns Blvd, STE B",Vancouver,Washington,98661,3604339753,"August 6th, 2015",2015,recreational,http://weedmaps.com/dispensaries/greenhead-cannabis-2#/details
+252244050,Superior Organics,750 S Belmont Ave,Superior,Arizona,85173,5206891960,"October 5th, 2015",2015,medical,http://weedmaps.com/dispensaries/superior-organics-2-2#/details
+555346368,Cannabis Central,1516 W University Way,Ellensburg,Washington,98926,5092011144,"August 12th, 2015",2015,recreational,http://weedmaps.com/dispensaries/cannabis-central#/details
+988261275,U.P. Premier Caregivers,5th Street,Calumet,Michigan,49913,emailustobecomeapatient,"September 18th, 2013",2013,medical,http://weedmaps.com/dispensaries/u-p-caregivers#/details
+507280973,Banana Belt Safe Access Center,16399 Lower Harbor Road,Harbor,Oregon,97415,5418132503,"August 24th, 2014",2014,medical,http://weedmaps.com/dispensaries/banana-belt-safe-access-center-2#/details
+632989533,TJ's Organic Provisions,1910 Empire Park Drive,Eugene,Oregon,97402,5415057105,"December 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/tj-s-organic-provisions#/details
+338118719,Thomas C. Slater Compassion Center,1 Corliss Street,Providence,Rhode Island,02904,4012741000,"July 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/thomas-c-slater-compassion-center#/details
+732022609,Mountain View Naturals,1020 Wasco Ave Suite E,Hood River,Oregon,97031,5414363333,"August 31st, 2015",2015,medical,http://weedmaps.com/dispensaries/mountain-view-naturals#/details
+527818087,PDI Medical,1623 Barclay Blvd,Buffalo Grove,IL,60089,2243779734,"July 12th, 2013",2013,medical,http://weedmaps.com/dispensaries/pdi-medical#/details
+952331450,Cave Creek Cannabis ,6812 E. Cave Creek Rd.,Cave Creek,Arizona,85331,4807798420,"September 16th, 2014",2014,medical,http://weedmaps.com/dispensaries/cave-creek-cannabis#/details
+952331450,Cave Creek Cannabis ,6812 E. Cave Creek Rd.,Cave Creek,Arizona,85331,4807798420,"December 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/cave-creek-cannabis#/details
+772721420,"Buds, Ltd.",104 Cardinal Way,Parachute,Colorado,81635,9702859307,"January 20th, 2016",2016,recreational,http://weedmaps.com/dispensaries/buds-ltd#/details
+577726659,Heaven,By Appointment Only,Fresno,Californialifornia,93704,5592173161,"January 20th, 2016",2016,medical,http://weedmaps.com/dispensaries/heaven#/details
+461878096,Emerald Haze Cannabis Emporium - Renton,4033 NE Sunset Blvd Suite #5,Renton,Washington,98056,4257934293,"December 13th, 2015",2015,recreational,http://weedmaps.com/dispensaries/emerald-haze-cannabis-emporium#/details
+771087688,Chula Vista Greens,1037 Broadway Suite G,Chula Vista,California,91911,6192133577,"March 7th, 2016",2016,medical,http://weedmaps.com/dispensaries/chula-vista-greens#/details
+511287587,Empire Collective SD,8622 Troy Street,Spring Valley,Californialifornia,91977,6197044475,"April 24th, 2015",2015,medical,http://weedmaps.com/dispensaries/empire-collective-sd#/details
+812882358,Discount Hunter,1042 S Santa Fe Ave,Vista,Californialifornia,92084,4422327371,"September 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/vista-discount-hunter#/details
+159581771,FAMOUS ROOTS,12708 Foothill Blvd,Sylmar,Californialifornia,91342,8183366115,"April 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/famous-roots#/details
+427906406,HTC HIGH TIDE CHURCH GRAND OPENING!!!,19142 Beach Blvd Unit F,Huntington Beach,Californialifornia,92648,7147426979,"July 16th, 2015",2015,medical,http://weedmaps.com/dispensaries/htc-high-tide-church-grand-opening#/details
+427906406,HTC HIGH TIDE CHURCH GRAND OPENING!!!,19142 Beach Blvd Unit F,Huntington Beach,Californialifornia,92648,7147426979,"August 17th, 2015",2015,medical,http://weedmaps.com/dispensaries/htc-high-tide-church-grand-opening#/details
+315448099,Florence Canna Clinic FCC,357 East Florence Ave,Los Angeles,Californialifornia,90003,3235319257,"July 27th, 2015",2015,medical,http://weedmaps.com/dispensaries/skyline#/details
+764406533,Organic Greens,4274 El Cajon Blvd #D,San Diego,Californialifornia,92105,6194842470,"July 27th, 2015",2015,medical,http://weedmaps.com/dispensaries/5-diamond-meds#/details
+264186213,Green Land,40354 167th Street East,Palmdale,Californialifornia,93591,6614414700,"November 12th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-land#/details
+266335204,Canoga's Finest,7230 Variel Ave.  Unit #A,Canoga Park,Californialifornia,91303,8184664854,"October 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/canogas-finest#/details
+830188478,Rite Greens SD,DELIVERY ONLY,San Diego,Californialifornia,91942,"6197535012WEAREDELIVERYONLY,NOTASTOREFRONT","October 28th, 2014",2014,medical,http://weedmaps.com/dispensaries/south-bay-greens-3#/details
+808729785,HIGHWAY 99 COLLECTIVE,19456 Colombo Street Suite H,Bakersfield,California,93308,6613919825,"August 22nd, 2014",2014,medical,http://weedmaps.com/dispensaries/hwy-99-collective-grand-reopening#/details
+878670994,Clean Green 40 CAP 5G FTP ,"800 West Carson Street, suite 33 (Go past the first shop, we are the second one in the back)",Torrance,Californialifornia,90502,3104028106,"April 27th, 2015",2015,medical,http://weedmaps.com/dispensaries/clean-green-40-cap-5g-ftp#/details
+694522483,Gardenas Med Center ,841 W Gardena Blvd,Los Angeles,Californialifornia,90247,3104934828,"March 21st, 2013",2013,medical,http://weedmaps.com/dispensaries/gardena-s-finest#/details
+836403020,Euclid Medical Center (EMC),9757 Garden Grove Blvd #5,Garden Grove,Californialifornia,92844,7147192713,"March 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/euclid-medical-center-2#/details
+301468640,WhittierHotBox,13261 Imperial Highway,Whittier,Californialifornia,90602,5627585777,"April 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/whittierhotbox#/details
+487796572,EXHALE MED CENTER PRE-ICO,980 North La Cienega #102,Los Angeles,Californialifornia,90069,4242799497,"March 13th, 2015",2015,medical,http://weedmaps.com/dispensaries/exhale-med-center#/details
+408422213,The Heights Collective,19261 Colima Rd UNIT D,Rowland Heights,Californialifornia,91748,6264304067,"September 12th, 2014",2014,medical,http://weedmaps.com/dispensaries/the-heights#/details
+992924726,Wilmington Best Buds,1131 W. Anaheim St,Wilmington,Californialifornia,90744,5622852819,"July 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/wilmington-best-buds#/details
+599270028,TMC,7550 tampa ave #F,Reseda,Californialifornia,91335,8186546232,"August 24th, 2015",2015,medical,http://weedmaps.com/dispensaries/tampa-wellness-inc#/details
+599270028,TMC,7550 tampa ave #F,Reseda,Californialifornia,91335,8186546232,"November 12th, 2014",2014,medical,http://weedmaps.com/dispensaries/tampa-wellness-inc#/details
+645731732,Green Stop 35 Cap,2314 WHITTIER BLVD.,E. Los Angeles,Californialifornia,90023,6262408923,"May 21st, 2014",2014,medical,http://weedmaps.com/dispensaries/alternative-solution#/details
+796613672,LOVE IN IT COOPERATIVE ,10464 LANSING STREET,MENDOCINO,Californialifornia,95460,7079373123,"May 21st, 2014",2014,medical,http://weedmaps.com/dispensaries/love-in-it-cooperative#/details
+544080822,Urban Pharm ,122 10th Street,San Francisco,Californialifornia,94103,4158729488,"September 19th, 2013",2013,medical,http://weedmaps.com/dispensaries/urban-pharm#/details
+544080822,Urban Pharm ,122 10th Street,San Francisco,Californialifornia,94103,4158729488,"February 14th, 2011",2011,medical,http://weedmaps.com/dispensaries/urban-pharm#/details
+906165743,TLC,9346 GALENA ST,Riverside,Californialifornia,92509,9513605654,"October 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/tlc-riverside#/details
+929881554,Ontana Planet Green,300 J St.,Needles,Californialifornia,92363,7603264440,"October 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/ontana-planet-green#/details
+273738255,Golden Valley Collective,3912 Merrill AVe,Riverside,Californialifornia,92506,16572305576,"September 11th, 2012",2012,medical,http://weedmaps.com/dispensaries/goldenvalleycollective#/details
+347475042,Infinite Wellness Center - Adult Use,900 North College,Fort Collins,Colorado,80524,9704848380,"January 31st, 2013",2013,recreational,http://weedmaps.com/dispensaries/infinite-wellness-center-2#/details
+766977412,White House- Corona,19470 Envoy Ave,Corona,Californialifornia,92881,7147070035,"May 12th, 2015",2015,medical,http://weedmaps.com/dispensaries/white-castle-2#/details
+544160099,WWC ,217 E. Washington blvd,Los Angeles,Californialifornia,90015,7474007900,"September 9th, 2014",2014,medical,http://weedmaps.com/dispensaries/washington-wellness-center-caregivers-inc#/details
+604884614,KUSH PALACE (PRE-ICO) BEST DAILY DEALS,10950 S. MAIN STREET,LOS ANGELES,Californialifornia,90061,3239842904,"February 26th, 2015",2015,medical,http://weedmaps.com/dispensaries/kush-palace-pre-ico-best-daily-deals#/details
+770618377,The Green Room,18495 Mack Ave,Detroit,Michigan,48236,3134236892FREE8TH1STTIMEPATIENTS,"July 14th, 2014",2014,medical,http://weedmaps.com/dispensaries/the-green-room-4#/details
+738193831,Arizona Natural Selections of Scottsdale,7320 E Butherus Dr #100,Scottsdale,Arizona,85260,4805751245,"December 9th, 2014",2014,medical,http://weedmaps.com/dispensaries/arizona-natural-selections-of-scottsdale#/details
+322914162,540 Collective,7809 S Western Ave,Los Angeles,Californialifornia,90047,5623403258,"August 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/mr-nice-pre-ico#/details
+465756010,Green Gold Cultivators,568 Angels Rd.,San Andreas,Californialifornia,95249,2096748008,"March 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-gold-cultivators#/details
+156690125,Green Door Alternative,7304 Michigan Ave,Detroit,Michigan,48210,3132549468,"December 9th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-door-alternative#/details
+846398960,Diamond Valley Caregivers,Call for address Baseline st.,San Bernardino,Californialifornia,92404,9093625835,"November 4th, 2013",2013,medical,http://weedmaps.com/dispensaries/sky-high-alternative-care#/details
+161546983,G Mile,31651 Hwy 74,Homeland,Californialifornia,92548,9513255600,"July 23rd, 2014",2014,medical,http://weedmaps.com/dispensaries/g-mile#/details
+468416936,Kushmart,1343 S. Hill St,Los Angeles,Californialifornia,90015,3234646465,"January 16th, 2014",2014,medical,http://weedmaps.com/dispensaries/kushmart-2#/details
+577568939,Californication ,104 South Pacific Ave,San Pedro,Californialifornia,90731,3109352409,"October 1st, 2014",2014,medical,http://weedmaps.com/dispensaries/californication#/details
+326368906,Point Loma Patient Consumer Co-Op - Ocean Beach,3452 Hancock Street,San Diego,Californialifornia,92110,6195740415,"May 9th, 2014",2014,medical,http://weedmaps.com/dispensaries/green-hope-delivery-mission-valley-2#/details
+326368906,Point Loma Patient Consumer Co-Op - Ocean Beach,3452 Hancock Street,San Diego,Californialifornia,92110,6195740415,"December 31st, 2014",2014,medical,http://weedmaps.com/dispensaries/green-hope-delivery-mission-valley-2#/details
+413373966,HOLLYWEED,5142 Venice Blvd,Los Angeles,Californialifornia,90019,3239395299,"December 19th, 2014",2014,medical,http://weedmaps.com/dispensaries/hollyweed#/details
+863133543,FOOTHILL WELLNESS CENTER - Pre ICO,7132 Foothill Blvd.,Tujunga,Californialifornia,91042,8183523388,"December 19th, 2014",2014,medical,http://weedmaps.com/dispensaries/foothill-wellness-center-2#/details
+222469777,FireHouse,8941 W 8 Mile Road,Detroit,Michigan,48221,3136462903,"February 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/firehouse-2-2#/details
+813926864,Pueblo West Organics - Adult Use,609 E Enterprise Dr Ste 130,Pueblo West,Colorado,81007,7196472043,"May 31st, 2013",2013,recreational,http://weedmaps.com/dispensaries/pueblo-west-organics-2#/details
+960863576,SCSA South Coast Safe Access - Santa Ana 92705,1900 Warner Ave. Unit A,Santa Ana,Californialifornia,92705,9494747272,"August 19th, 2015",2015,medical,http://weedmaps.com/dispensaries/scsa-south-coast-safe-access#/details
+362035548,NNCC Inc. PRE-ICO ,9021 Exposition Blvd,Los Angeles,Californialifornia,90034,3102026622,"February 24th, 2014",2014,medical,http://weedmaps.com/dispensaries/nncc-nature-s-natural-collective-care#/details
+362035548,NNCC Inc. PRE-ICO ,9021 Exposition Blvd,Los Angeles,Californialifornia,90034,3102026622,"June 4th, 2011",2011,medical,http://weedmaps.com/dispensaries/nncc-nature-s-natural-collective-care#/details
+561638276,Zen Noho Prop D,5142 Vineland Avenue,North Hollywood,Californialifornia,91601,8184873737,"December 6th, 2012",2012,medical,http://weedmaps.com/dispensaries/magnolia-wellness-center#/details
+387121343,Vallejo Holistic Health Center (VHHC),1516 Napa St,Vallejo,Californialifornia,94590,7076525018Storefront,"December 6th, 2012",2012,medical,http://weedmaps.com/dispensaries/vallej-holistic-health-care#/details
+934009697,The Green Rose,4569 Melrose Ave,Hollywood,Californialifornia,90029,3235357427,"October 28th, 2013",2013,medical,http://weedmaps.com/dispensaries/the-green-rose#/details
+934009697,The Green Rose,4569 Melrose Ave,Hollywood,Californialifornia,90029,3235357427,"April 27th, 2013",2013,medical,http://weedmaps.com/dispensaries/the-green-rose#/details
+304113689,NICE SLEEP,750 South Vermont,Los Angeles,Californialifornia,90005,2135956274,"September 16th, 2015",2015,medical,http://weedmaps.com/dispensaries/nice-sleep#/details
+304113689,NICE SLEEP,750 South Vermont,Los Angeles,Californialifornia,90005,2135956274,"September 16th, 2015",2015,medical,http://weedmaps.com/dispensaries/nice-sleep#/details
+204153731,The Downtown Dispensary,221 E. 6th Street Suite #105,Tucson,Arizona,85705,5208380492,"September 28th, 2013",2013,medical,http://weedmaps.com/dispensaries/the-downtown-dispensary#/details
+390956991,Apothecary,15374 Dickens St.,Sherman Oaks,Californialifornia,91403,8189050420,"September 28th, 2013",2013,medical,http://weedmaps.com/dispensaries/apothecary-sherman-oaks#/details
+277441645,FUEGO ,12632 E 8 MILE RD,DETROIT,Michigan,48205,3138214350,"August 27th, 2013",2013,medical,http://weedmaps.com/dispensaries/fuego#/details
+916492223,Silver Stem Cannabis,1926 NE 40th Ave,Portland,Oregon,97212,5032082074,"September 11th, 2013",2013,medical,http://weedmaps.com/dispensaries/silver-stem-cannabis#/details
+341134523,The 64 Store,502 West Colorado Ave,Colorado Springs,Colorado,80905,7196020640,"January 20th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-64-store#/details
+193050486,Rainier on Pine  - Recreational,3111 S. Pine St.,Tacoma,Washington,98409,2533023365,"April 6th, 2015",2015,recreational,http://weedmaps.com/dispensaries/rainier-wellness-center#/details
+265787730,Bikini Ball Collective Bogo Oz's and Qp Specials,1210 S. State College Blvd. Unit D (entrance next to Titanium Hooka Lounge),Anaheim,Californialifornia,92806,7145749730,"July 11th, 2013",2013,medical,http://weedmaps.com/dispensaries/bikini-ball-collective-bbc#/details
+790225590,The Cure,560 El Cajon Boulevard,El Cajon,Californialifornia,92020,6193766686,"June 16th, 2011",2011,medical,http://weedmaps.com/dispensaries/the-cure-2-5#/details
+926801223,Medical Cure Compassion - Pre ICO,7674 San Fernando rd,Burbank,Californialifornia,91352,8187479447,"March 18th, 2014",2014,medical,http://weedmaps.com/dispensaries/mc3#/details
+276345861,MedLogic Inc. - Perris,802 NAVAJO RD SUITE J (SINGLE STORY INDIAN HILLS CENTER),Perris,Californialifornia,92570,9519437800,"September 10th, 2015",2015,medical,http://weedmaps.com/dispensaries/apple-valley-medical-alliance-inc#/details
+484087190,KindPeoples,3600 Soquel Ave,Santa Cruz,Californialifornia,95062,8314718562,"June 12th, 2015",2015,medical,http://weedmaps.com/dispensaries/kindpeoples-collective#/details
+275882086,Bellflower Cannabis Garden,8846 Alondra Blvd,Bellflower,Californialifornia,90706,5623031305,"November 2nd, 2010",2010,medical,http://weedmaps.com/dispensaries/bellflower-cannabis-garden#/details
+449367181,NATURE'S CURE INC (PRE-ICO),5300 W. Century Blvd. Ste 124,Los Angeles,Californialifornia,90045,3106450173,"January 27th, 2014",2014,medical,http://weedmaps.com/dispensaries/lax-patient-remedies-full-menu-lab-tested-only-the-best#/details
+449367181,NATURE'S CURE INC (PRE-ICO),5300 W. Century Blvd. Ste 124,Los Angeles,Californialifornia,90045,3106450173,"October 13th, 2015",2015,medical,http://weedmaps.com/dispensaries/lax-patient-remedies-full-menu-lab-tested-only-the-best#/details
+346650419,Alpine Alternative,8112 Alpine Ave,Sacramento,Californialifornia,95826,9167396337,"April 12th, 2009",2009,medical,http://weedmaps.com/dispensaries/alpine-alternative#/details
+888008329,Herbal Solutions,124 West Michigan Avenue,Ypsilanti,Michigan,48197,7344878421,"April 12th, 2009",2009,medical,http://weedmaps.com/dispensaries/herbal-solutions-ypsi#/details
+313575311,Pacific Green \u0026 Delivery - Spanaway,19815 Mountain HWY E,Spanaway,Washington,98387,2532564223,"January 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/pacific-green-delivery-spanaway-washington#/details
+313575311,Pacific Green \u0026 Delivery - Spanaway,19815 Mountain HWY E,Spanaway,Washington,98387,2532564223,"August 4th, 2011",2011,medical,http://weedmaps.com/dispensaries/pacific-green-delivery-spanaway-washington#/details
+656704039,Miramar Private Club,9350 Trade Place Suite E,San Diego,Californialifornia.,92126,8582296859,"August 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/miramar-patients-group-2#/details
+388854294,White Mountain Health Center,9420 W Bell Rd suite 108,Sun City,Arizona,85351,6233744141,"August 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/white-mountain-health-center#/details
+473979091,Shatter Wholesale ,CALL/Text FOR ADDRESS,Fontana,Californialifornia,92335,7143410868,"October 17th, 2014",2014,medical,http://weedmaps.com/dispensaries/shatter-wholesale-blowout-shatter-deals-everyday#/details
+445264078,Green Earth Farmacie,6811 WOODMAN AVE.,Van Nuys,Californialifornia,91405,8189941045,"January 3rd, 2015",2015,medical,http://weedmaps.com/dispensaries/van-nuys-91405#/details
+103699120,Breckenridge Organic Therapy - Adult Use 21+,"1900 Airport Rd, Suite A1",Breckenridge,Colorado,80424,9704530420,"February 20th, 2016",2016,recreational,http://weedmaps.com/dispensaries/breckenridge-organic-therapy#/details
+641507049,THC-OPEN to 3AM,4127 S Centinela Ave,Los Angeles,Californialifornia,90066,3108719165,"December 10th, 2009",2009,medical,http://weedmaps.com/dispensaries/thc-total-healing-center#/details
+397440893,Golden State CBD,616 East Alvarado Street 101A,Fallbrook,Californialifornia,92028,7604513000,"May 26th, 2010",2010,medical,http://weedmaps.com/dispensaries/golden-state-cbd-2#/details
+334630744,GreenRoom on Market,4218 Market St. Suite A,San Diego,Californialifornia,92102,6193065678,"March 28th, 2014",2014,medical,http://weedmaps.com/dispensaries/the-green-room-4-4#/details
+133280128,Hana Kingman,2095 East Northern Avenue,Kingman,Arizona,86409,9286920000,"February 21st, 2015",2015,medical,http://weedmaps.com/dispensaries/hana-kingman#/details
+109119036,Cloud 45,2631 South Otsego Ave,Gaylord,Michigan,49735,9894482029,"December 2nd, 2014",2014,medical,http://weedmaps.com/dispensaries/cloud-45#/details
+584002019,Faragosi Farms,118 Santa Fe Trail,Trinidad,Colorado,81082,7198462310,"August 21st, 2014",2014,recreational,http://weedmaps.com/dispensaries/faragosi-farms#/details
+310382212,Fox Street Wellness - 21+,4773 Fox Street,Denver,Colorado,80216,7208817460,"October 12th, 2015",2015,medical,http://weedmaps.com/dispensaries/fox-street-wellness#/details
+713776222,Nevada Medical Marijuana ,3195 St Rose Pkwy suite 212,Henderson,Nevada,89052,7022984820,"March 21st, 2015",2015,medical,http://weedmaps.com/dispensaries/nevada-medical-marijuana#/details
+482884956,DESERT ORGANIC SOLUTIONS - Palm Springs 92258,19486 Newhall Road,North Palm Springs,Californialifornia,92258,7602884000,"September 27th, 2012",2012,medical,http://weedmaps.com/dispensaries/desert-organic-solutions#/details
+482884956,DESERT ORGANIC SOLUTIONS - Palm Springs 92258,19486 Newhall Road,North Palm Springs,Californialifornia,92258,7602884000,"October 23rd, 2015",2015,medical,http://weedmaps.com/dispensaries/desert-organic-solutions#/details
+332290036,Lakeshore Alternatives,6155 Blue Star Highway,Saugatuck,Michigan,49453,2698571188,"April 27th, 2010",2010,medical,http://weedmaps.com/dispensaries/lakeshore-alternatives#/details
+384541791,New Millennium ,136 Stewart Road,Pacific,Washington,98047,2534478584,"April 27th, 2010",2010,medical,http://weedmaps.com/dispensaries/new-millennium#/details
+695231886,Harbor Alternative Wellness,6708 144th St NW Suite A,Gig Harbor,Washington,98332,2535148374,"July 12th, 2011",2011,medical,http://weedmaps.com/dispensaries/jade-gardens#/details
+703379758,CVCC,84-891 Avenue 48,Coachella,Californialifornia,92236,7603983400,"June 12th, 2015",2015,medical,http://weedmaps.com/dispensaries/organic-treatment-center-o-t-c#/details
+753550805,Santa Barbara Care Center ,5814 Gaviota St.,Goleta,Californialifornia,93117,8058454291,"June 10th, 2012",2012,medical,http://weedmaps.com/dispensaries/santa-barbara-care-center#/details
+997829868,Olympic Sinsemilla,256781 Hwy 101,Port Angeles,Washington,98362,3603012216,"January 21st, 2014",2014,medical,http://weedmaps.com/dispensaries/olympic-sinsemilla#/details
+969660392,Nu Gen LB 24/7,2242 Long Beach Blvd,Long Beach,Californialifornia,90806,5624261395,"February 25th, 2013",2013,medical,http://weedmaps.com/dispensaries/nu-gen-lb#/details
+969660392,Nu Gen LB 24/7,2242 Long Beach Blvd,Long Beach,Californialifornia,90806,5624261395,"January 14th, 2015",2015,medical,http://weedmaps.com/dispensaries/nu-gen-lb#/details
+377436327,Phytologie Wellness,8440 Enterprise Way,Oakland,Californialifornia,94621,5104549779,"October 1st, 2015",2015,medical,http://weedmaps.com/dispensaries/phytologie-grand-opening#/details
+766524485,The Barn,3491 East Bristol Rd.,Burton,Michigan,48529,8107421500,"October 1st, 2015",2015,medical,http://weedmaps.com/dispensaries/the-barn#/details
+561541880,Higher Level of Care,"26555 Carmel Rancho Blvd., Suite #3",Carmel,Californialifornia,93923,8316201990,"November 21st, 2013",2013,medical,http://weedmaps.com/dispensaries/higher-level-mmj#/details
+808380000,Torrey Holistics,"10671 Roselle St, Suite #100",San Diego,Californialifornia,92121,18585581420,"April 18th, 2011",2011,medical,http://weedmaps.com/dispensaries/torrey-holistics#/details
+210666656,The City Wellness,1291 E. Walnut St.,Pasadena,California,91106,6262196586,"September 11th, 2015",2015,medical,http://weedmaps.com/dispensaries/city-wellness#/details
+960372863,The Station,3005 28th Street,Boulder,Colorado,80302,3034420892,"February 9th, 2016",2016,recreational,http://weedmaps.com/dispensaries/the-station#/details
+484818414,The Parents Remedy,1350 Lone Palm Ave,Modesto,Californialifornia,95351,2097352107,"February 18th, 2015",2015,medical,http://weedmaps.com/dispensaries/cva-central-valley-alternative#/details
+423687521,LiveGreen Edgewater - Recreational,2517 Sheridan Blvd.,Edgewater,Colorado,80214,7209209617,"August 8th, 2011",2011,recreational,http://weedmaps.com/dispensaries/bud-med-health-centers-patients-choice-partner#/details
+535391654,Cinder,1421 North Mullan Road,Spokane Valley,Washington,99206,5092413726,"January 28th, 2015",2015,recreational,http://weedmaps.com/dispensaries/cinder-spokane-valley#/details
+842138657,Airfield Supply Company,1190 Coleman Avenue,San Jose,Californialifornia,95110,4083200230,"December 30th, 2013",2013,medical,http://weedmaps.com/dispensaries/airfield-supply-company#/details
+842138657,Airfield Supply Company,1190 Coleman Avenue,San Jose,Californialifornia,95110,4083200230,"October 8th, 2014",2014,medical,http://weedmaps.com/dispensaries/airfield-supply-company#/details
+829890705,Sierra Wellness Connection,1605 East 2nd Street Suite #103,Reno,Nevada,89502,775.473.9994,"September 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/sierra-wellness-connection#/details
+755128046,Caliva,1695. S. 7th St,San Jose,Californialifornia,95112,4082972615,"September 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/caliva#/details
+755128046,Caliva,1695. S. 7th St,San Jose,Californialifornia,95112,4082972615,"June 18th, 2015",2015,medical,http://weedmaps.com/dispensaries/caliva#/details
+131631467,The Kushion Provisions Center - Kushion Prov,1723 E Michigan Ave,Lansing,Michigan,48912,5176572932,"July 13th, 2015",2015,medical,http://weedmaps.com/dispensaries/the-kushion-provisions-center-kushion-prov#/details
+634253331,Brothers Cannabis Club,3609 SE Division St,Portland,Oregon,97202,5038948001,"July 13th, 2015",2015,medical,http://weedmaps.com/dispensaries/brothers-portland#/details
+972436773,Northstar Holistic Collective,1236 C Street,Sacramento,Californialifornia,95814,9164764344,"July 27th, 2014",2014,medical,http://weedmaps.com/dispensaries/northstar-holistic-collective-2#/details
+972436773,Northstar Holistic Collective,1236 C Street,Sacramento,Californialifornia,95814,9164764344,"January 29th, 2013",2013,medical,http://weedmaps.com/dispensaries/northstar-holistic-collective-2#/details
+444938570,Walla Walla Weedery,207 S 9th Street,Walla Walla,Washington,99362,5098764279,"April 19th, 2013",2013,recreational,http://weedmaps.com/dispensaries/walla-walla-weedery#/details
+444938570,Walla Walla Weedery,207 S 9th Street,Walla Walla,Washington,99362,5098764279,"April 19th, 2013",2013,recreational,http://weedmaps.com/dispensaries/walla-walla-weedery#/details
+381853053,Sedgwick Alternative Relief,107 Main Ave,Sedgwick,Colorado,80749,9704635328,"November 13th, 2015",2015,recreational,http://weedmaps.com/dispensaries/sedgwich-alternative-relief#/details
+119128394,LaContes Clone Bar + Dispensary - Central Medical,105 E 7th Ave,Denver,Colorado,80203,3032922252Press2,"November 13th, 2015",2015,medical,http://weedmaps.com/dispensaries/lacontes-clone-bar-dispensary-central#/details
+630106196,SANTE - Durango,742 1/2 Main Ave.,Durango,Colorado,81301,9703752837,"June 3rd, 2013",2013,recreational,http://weedmaps.com/dispensaries/sante-alternative-wellness#/details
+332411710,1944 Ocean Cooperative - San Francisco ,1944 Ocean Avenue,San Francisco,Californialifornia,94127,4152394766,"June 20th, 2011",2011,medical,http://weedmaps.com/dispensaries/1944-ocean-collective#/details
+332411710,1944 Ocean Cooperative - San Francisco ,1944 Ocean Avenue,San Francisco,Californialifornia,94127,4152394766,"November 9th, 2010",2010,medical,http://weedmaps.com/dispensaries/1944-ocean-collective#/details
+469523676,Longview Freedom Market - Recreational,971 14th Ave.,Longview,Washington,98632,3607033229,"August 25th, 2008",2008,recreational,http://weedmaps.com/dispensaries/longview-freedom-market-recreational#/details
+531594454,Leaf Life,1860 E Salk Drive Suite B1,Casa Grande,Arizona,85122,5203509880,"August 25th, 2008",2008,medical,http://weedmaps.com/dispensaries/leaf-life#/details
+583997068,Bud-Eze #3,"Call For Verification, Accepting New Patients",Victorville,Californialifornia,92392,7606512839,"September 9th, 2014",2014,medical,http://weedmaps.com/dispensaries/bud-eze-2-5-2#/details
+365180638,Green Empire ,1224 S Garey Ave,Pomona,Californialifornia,91766,9098335095,"August 6th, 2013",2013,medical,http://weedmaps.com/dispensaries/green-empire#/details
+596847254,Native Roots - Longmont,19 S. Sunset Street,Longmont,Colorado,80501,7203404870,"March 16th, 2015",2015,medical,http://weedmaps.com/dispensaries/native-roots-longmont-medical#/details
+266891382,Natures Medicine Salida,230 West 16th Street,Salida,Colorado,81201,7195393207,"March 8th, 2016",2016,recreational,http://weedmaps.com/dispensaries/natures-medicine-salida#/details
+670081652,7 Stars Holistic Healing Center,3288 Pierce St Suite M108,Richmond,California,94804,5105277827,"August 19th, 2014",2014,medical,http://weedmaps.com/dispensaries/7-stars-hhc#/details
+788839219,Mandy's Med Club,335 Highway 99 South,Cottage Grove,Oregon,97424,5419425047,"August 7th, 2010",2010,medical,http://weedmaps.com/dispensaries/mandy-s-med-club#/details
+484663436,Greenside Recreational - Kent,23407 Pacific Hwy South,Kent / Des Moines,Washington,98198,2068786470,"September 4th, 2012",2012,recreational,http://weedmaps.com/dispensaries/greenside-des-moines#/details
+719706862,Arizona Natural Remedies,22041 N. 23rd Ave,Phoenix,Arizona,85027,6235820436,"June 10th, 2014",2014,medical,http://weedmaps.com/dispensaries/arizona-natural-remedies#/details
+719706862,Arizona Natural Remedies,22041 N. 23rd Ave,Phoenix,Arizona,85027,6235820436,"October 30th, 2014",2014,medical,http://weedmaps.com/dispensaries/arizona-natural-remedies#/details
+458201736,MVP  CLUB,24490 Sunnymead Blvd #118,Moreno Valley,Californialifornia,92553,9514863600,"January 7th, 2016",2016,medical,http://weedmaps.com/dispensaries/the-green-mine-2#/details
+489741683,CG Corrigan,30 East Frontage Road,Placitas,New Mexico,87043,5059335599,"January 7th, 2016",2016,medical,http://weedmaps.com/dispensaries/cg-corrigan-2#/details
+265777825,Green Man Cannabis - Recreational,7289 E. Hampden Ave,Denver,Colorado,80224,7203825950,"January 22nd, 2016",2016,recreational,http://weedmaps.com/dispensaries/green-man-cannabis-recreational-2#/details
+972574292,The Herbery I-205,212 NE 164th Ave Suite #11,Vancouver,Washington,98684,3608417500,"August 18th, 2014",2014,recreational,http://weedmaps.com/dispensaries/the-herbery#/details
+571385991,Essence Dispensary | The Strip,2307 Las Vegas Blvd S.,Las Vegas,Nevada,89104,7029787739,"March 10th, 2015",2015,medical,http://weedmaps.com/dispensaries/essence-dispensary-the-strip#/details
+934834262,Green Leaf Recreational,4220 Meridian St. North,Bellingham,Washington,98226,3605262198,"February 15th, 2015",2015,recreational,http://weedmaps.com/dispensaries/greenleaf-2#/details
+189118776,The Green Planet,10020 SW Canyon Rd,Beaverton,Oregon,97225,5032921240,"July 1st, 2015",2015,medical,http://weedmaps.com/dispensaries/the-green-planet#/details
+285224438,Herbal Bliss,842 North Summit Blvd (Unit 13),Frisco,Colorado,80443,9706683514,"August 25th, 2014",2014,recreational,http://weedmaps.com/dispensaries/herbal-bliss#/details
+171247991,High Country Healing Eagle/Vail,40801 US HWY 6 Unit 5,Eagle-Vail,Colorado,81620,9704704794,"January 19th, 2015",2015,recreational,http://weedmaps.com/dispensaries/high-country-healing-2-2-2#/details
+319033265,Garden of Eden,21227 Foothill Blvd,Hayward,Californialifornia,94541,5102009555,"May 23rd, 2014",2014,medical,http://weedmaps.com/dispensaries/garden-of-eden-3-14#/details
+775687063,Roots Rx Aspen,400 E. Hyman Unit A102,Aspen,Colorado,81611,9709009333,"December 29th, 2015",2015,recreational,http://weedmaps.com/dispensaries/roots-rx-aspen#/details
+691351960,i and i - Newport,452 SW Bay Blvd,Newport,Oregon,97365,5412164999,"July 22nd, 2015",2015,medical,http://weedmaps.com/dispensaries/i-and-i-newport#/details
+856946439,Jenny's Dispensary,932 NE 3rd St,Bend,Oregon,97701,5417972120,"August 29th, 2015",2015,medical,http://weedmaps.com/dispensaries/jenny-s-dispensary-2#/details
+579260611,Marijuana Mart,6039 197th Ave SW,Grand Mound,Washington,98579,3608587188,"August 20th, 2015",2015,recreational,http://weedmaps.com/dispensaries/marijuana-mart#/details
+397340074,Madrone Cannabis Club,481 Appplegate Way,Ashland,Oregon,97520,5417086480,"September 9th, 2015",2015,medical,http://weedmaps.com/dispensaries/madrone-cannabis-club#/details
+727054532,Sweet Relief - Port Astordam,65 Port Way Street,Astoria,Oregon,97103,5037417626,"July 31st, 2015",2015,medical,http://weedmaps.com/dispensaries/sweet-relief-port-astordam#/details
+780056840,Green Life NW - Recreational 21+,11463 Rainier Ave South,Seattle,Washington,98178,2064665388,"December 8th, 2015",2015,medical,http://weedmaps.com/dispensaries/green-life-nw-recreational-21#/details
+442026091,Chula Vista Meds,1067 Broadway Suite 103,Chula Vista,Californialifornia,91911,6192138491,"March 3rd, 2016",2016,medical,http://weedmaps.com/dispensaries/chula-vista-meds#/details
+319126089,CALI RELEAF,1930 PACIFIC COAST HIGHWAY,LOMITA,Californialifornia,90717,3107205926,"January 26th, 2016",2016,medical,http://weedmaps.com/dispensaries/calireleafcaregivers#/details
+319126089,CALI RELEAF,1930 PACIFIC COAST HIGHWAY,LOMITA,Californialifornia,90717,3107205926,"September 25th, 2014",2014,medical,http://weedmaps.com/dispensaries/calireleafcaregivers#/details
+651118425,420 XCHANGE,8851 Garden Grove Blvd.,Garden Grove,California,92844,7144627172,"April 10th, 2013",2013,medical,http://weedmaps.com/dispensaries/420xchange#/details
+651118425,420 XCHANGE,8851 Garden Grove Blvd.,Garden Grove,California,92844,7144627172,"April 10th, 2013",2013,medical,http://weedmaps.com/dispensaries/420xchange#/details
+450037219,APC,1671 W. Katella Ave. Suite #135,Anaheim,Californialifornia,92802,7148762709,"March 30th, 2015",2015,medical,http://weedmaps.com/dispensaries/anaheim-patient-care#/details
+954540400,Broadways 35 Spot,4529 South Broadway,Los Angeles,Californialifornia,90037,1234567,"March 30th, 2015",2015,medical,http://weedmaps.com/dispensaries/nhc#/details
+171319511,Lucky Greens Collective,N/A,N/A,Californialifornia,N/A,6193451314,"February 15th, 2014",2014,medical,http://weedmaps.com/dispensaries/cloud-9-collective#/details
+519749287,HIGH SPOT,19459 Ventura Blvd.,Tarzana,Californialifornia,91356,7474774707,"December 27th, 2014",2014,medical,http://weedmaps.com/dispensaries/high-spot#/details
+596536359,SYLMAR WELLNESS CENTER,12777 San Fernando Rd. Unit 10,Sylmar,Californialifornia,91342,2133592641,"August 15th, 2015",2015,medical,http://weedmaps.com/dispensaries/sylmar-wellness-grand-opening#/details
+529493669,Divine Vitality,102 Brundage Lane,Bakersfield,Californialifornia,93304,6613222811,"January 2nd, 2015",2015,medical,http://weedmaps.com/dispensaries/divine-vitality-2#/details

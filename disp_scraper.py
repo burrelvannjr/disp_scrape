@@ -20,6 +20,7 @@ zips=[]
 phones=[]
 itemlist2=[]
 dates=[]
+years=[]
 
 site = "https://weedmaps.com/dispensaries/in/united-states"
 text = requests.get(site).text
@@ -79,6 +80,16 @@ phones = [p.replace('(', '') for p in phones]
 phones = [p.replace(')', '') for p in phones]
 phones = [p.replace('-', '') for p in phones]
 phones = [p.replace(' ', '') for p in phones]
+states = [s.replace('CA', 'California') for s in states]
+states = [s.replace('CO', 'Colorado') for s in states]
+states = [s.replace('MI', 'Michigan') for s in states]
+states = [s.replace('AZ', 'Arizona') for s in states]
+states = [s.replace('Ca', 'California') for s in states]
+states = [s.replace('OR', 'Oregon') for s in states]
+states = [s.replace('WA', 'Washington') for s in states]
+states = [s.replace('CA.', 'California') for s in states]
+states = [s.replace('NV', 'Nevada') for s in states]
+states = [s.replace('Az', 'Arizona') for s in states]
 
 
 
@@ -107,15 +118,20 @@ for det in details:
 
 dates = map(','.join, dates)
 
+for d in dates:
+	year = d.split(", ")[1]
+	years.append(year)
 
-disps = zip(ids,names,addresses,cities,states,zips,phones,dates,licenses,details)
+
+
+disps = zip(ids,names,addresses,cities,states,zips,phones,dates,years,licenses,details)
+
 	
 csvfile = "disp_scrape/data/disp.csv"
 
 with open(csvfile, "w") as output:
 	writer = csv.writer(output, lineterminator='\n')
 	#writer.writerow(["Dispensary Name", "Address", "Numbers", "Website"])
-	writer.writerow(["id", "names", "addresses", "cities", "states", "zips", "phones", "dates", "licences", "websites"])
+	writer.writerow(["id", "names", "addresses", "cities", "states", "zips", "phones", "dates", "years", "licences", "websites"])
 	writer.writerows(disps)
-
 
