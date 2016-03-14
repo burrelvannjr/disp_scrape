@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from BeautifulSoup import SoupStrainer
 import pandas as pd
 import urllib,re,csv,os,urllib2,requests,itertools
 import requests.packages.urllib3
@@ -18,6 +19,7 @@ states=[]
 zips=[]
 phones=[]
 itemlist2=[]
+dates=[]
 
 site = "https://weedmaps.com/dispensaries/in/united-states"
 text = requests.get(site).text
@@ -30,6 +32,12 @@ for i in items:
 	i = "wmid:" + i
 	i = i.encode("utf-8")
 	itemlist.append(i)
+
+
+
+
+
+
 
 for i in itemlist:
 	id = re.findall('wmid:(.*?),"url',i)
@@ -52,6 +60,8 @@ for i in itemlist:
 	phones.append(phone)
 
 
+
+
 ids = map(','.join, ids)
 names = map(','.join, names)
 pages = map(','.join, pages)
@@ -61,8 +71,6 @@ cities = map(','.join, cities)
 states = map(','.join, states)
 zips = map(','.join, zips)
 phones = map(','.join, phones)
-phones = phones.replace("(","")
-
 addresses = [a.replace('CALL FOR VERIFICATION', 'N/A') for a in addresses]
 cities = [c.replace('CALL FOR VERIFICATION', 'N/A') for c in cities]
 zips = [z.replace('  OPEN 24/7', '') for z in zips]
@@ -72,30 +80,42 @@ phones = [p.replace(')', '') for p in phones]
 phones = [p.replace('-', '') for p in phones]
 phones = [p.replace(' ', '') for p in phones]
 
+
+
 for page in pages:
 	page = "http" + page
 	urls.append(page)
 	detail = page + "#/details"
 	details.append(detail)
 
+
+startpoint = 0
 for det in details:
 	newpage = det
-	text2 = requests.get(newpage).text
-	soup2 = BeautifulSoup(text2)
+	text = requests.get(newpage).text
+	soup = BeautifulSoup(text)
 	soup2 = soup.encode("utf-8")
+	divs = soup.find_all('div', attrs={'class':'details-card-item'})
+	date = divs[-1]
+	date = date.encode("utf-8")
+	date = re.findall('</div><div class="details-card-item-data">(.*?)</div></div>',date)
+	dates.append(date)
 	itemlist2.append(soup2)
+	print(startpoint)
+	startpoint += 1
 
 
 
 
-disps = zip(ids,names)
+
+disps = zip(ids,names,addresses,cities,states,zips,phones,dates,licenses,details)
 	
 csvfile = "disp.csv"
 
 with open(csvfile, "w") as output:
 	writer = csv.writer(output, lineterminator='\n')
 	#writer.writerow(["Dispensary Name", "Address", "Numbers", "Website"])
-	writer.writerow(["id", "names"])
+	writer.writerow(["id", "names", "addresses", "cities", "states", "zips", "phones", "dates", "licences", "websites"])
 	writer.writerows(disps)
 
 
