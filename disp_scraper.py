@@ -105,12 +105,12 @@ for det in details:
 	startpoint += 1
 
 
-
+dates = map(','.join, dates)
 
 
 disps = zip(ids,names,addresses,cities,states,zips,phones,dates,licenses,details)
 	
-csvfile = "disp.csv"
+csvfile = "disp_scrape/data/disp.csv"
 
 with open(csvfile, "w") as output:
 	writer = csv.writer(output, lineterminator='\n')
